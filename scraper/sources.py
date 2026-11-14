@@ -482,7 +482,7 @@ SOURCES = [
     ("성균관대", skku),
     *[(n, (lambda n=n, c=c, m=m: naver_cafe(n, c, m))) for n, c, m in NAVER_CAFES],
     ("금융투자협회", kofia),
-    ("자소설닷컴", jasoseol),
+    # ("자소설닷컴", jasoseol),   ← GitHub(해외) 서버 접속을 막아서 제외. 앞의 #을 지우면 다시 켜져요.
     ("링커리어", linkareer),
     ("연세대 MBA", yonsei_mba),
     ("커리어점프", careerjump),
