@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>인턴 공고 대시보드</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+  :root{
+    --bg:#f6f5f2; --panel:#fff; --ink:#1b1d21; --sub:#6b6f76; --line:#e6e3dd;
+    --fin:#0f5e4d; --fin-bg:#e3f1ec; --str:#3d3a8c; --str-bg:#e9e8f7; --etc:#7a6a55; --etc-bg:#f1ece4;
+    --new:#d6452f; --warn:#b5651d; --ok:#2f7d4f; --accent:#1b1d21;
+  }
+  @media (prefers-color-scheme: dark){:root{
+    --bg:#131416; --panel:#1c1d20; --ink:#ececec; --sub:#9a9ea6; --line:#2c2e33;
+    --fin:#6fd1b5; --fin-bg:#173029; --str:#a9a6ff; --str-bg:#25244a; --etc:#cbb79a; --etc-bg:#2c271f;
+    --new:#ff7a63; --warn:#e7a35b; --ok:#6cc98f; --accent:#ececec;
+  }}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:Pretendard,-apple-system,"Apple SD Gothic Neo",sans-serif;font-size:15px;line-height:1.5}
+  .wrap{max-width:1080px;margin:0 auto;padding:28px 20px 60px}
+  header{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:22px}
+  h1{font-size:26px;margin:0;letter-spacing:-.02em}
+  .meta{color:var(--sub);font-size:13px}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;cursor:pointer;transition:border-color .15s}
+  .stat:hover{border-color:var(--sub)}
+  .stat.on{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+  .stat b{display:block;font-size:24px;letter-spacing:-.02em}
+  .stat span{color:var(--sub);font-size:13px}
+  .stat small{color:var(--new);font-weight:600;margin-left:6px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+  input[type=search],select{font:inherit;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink)}
+  input[type=search]{flex:1;min-width:200px}
+  label.tg{display:flex;gap:6px;align-items:center;font-size:14px;color:var(--sub);cursor:pointer;user-select:none}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+  .chip{font:inherit;font-size:13px;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--sub);cursor:pointer}
+  .chip.on{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+  .list{display:flex;flex-direction:column;gap:8px}
+  .job{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:4px 14px}
+  .job a.t{color:var(--ink);text-decoration:none;font-weight:600;font-size:15.5px}
+  .job a.t:hover{text-decoration:underline}
+  .row2{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px;color:var(--sub)}
+  .co{color:var(--ink);font-weight:500}
+  .cat{font-size:12px;font-weight:600;padding:2px 8px;border-radius:6px}
+  .c-금융권{color:var(--fin);background:var(--fin-bg)} .c-전략기획{color:var(--str);background:var(--str-bg)} .c-기타{color:var(--etc);background:var(--etc-bg)}
+  .new{color:var(--new);font-weight:700;font-size:12px}
+  .tags{font-size:12px;color:var(--sub);grid-column:1/-1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .side{text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:4px}
+  .dday{font-weight:700;font-size:14px}
+  .dday.urgent{color:var(--new)} .dday.soon{color:var(--warn)}
+  .star{background:none;border:0;font-size:18px;cursor:pointer;color:var(--line);padding:0}
+  .star.on{color:#e6b422}
+  .empty{text-align:center;color:var(--sub);padding:50px 0}
+  details{margin-top:28px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 16px}
+  summary{cursor:pointer;font-weight:600}
+  table{width:100%;border-collapse:collapse;font-size:13px;margin-top:10px}
+  td,th{padding:7px 6px;border-bottom:1px solid var(--line);text-align:left}
+  .ok{color:var(--ok)} .bad{color:var(--new)}
+  .unreadbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--new);border-radius:12px;padding:12px 16px;margin-bottom:14px}
+  .unreadbar.none{border-left-color:var(--line);color:var(--sub)}
+  .unreadbar b{font-size:16px}
+  .unreadbar .sp{flex:1}
+  .btn{font:inherit;font-size:13px;padding:6px 12px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);cursor:pointer}
+  .btn.primary{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+  .job.unread{border-left:4px solid var(--new);padding-left:13px}
+  .dot{color:var(--new);font-weight:700;font-size:12px}
+  @media (max-width:640px){.stats{grid-template-columns:repeat(2,1fr)}.job{grid-template-columns:1fr}.side{flex-direction:row;align-items:center;justify-content:flex-start}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>인턴 공고 대시보드</h1>
+      <div class="meta" id="meta">불러오는 중…</div>
+    </div>
+    <div class="meta" id="health"></div>
+  </header>
+
+  <div class="unreadbar" id="unreadbar"></div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="bar">
+    <input type="search" id="q" placeholder="기업명, 공고 제목, 직무로 검색">
+    <select id="sort">
+      <option value="new">최신 등록순</option>
+      <option value="deadline">마감 임박순</option>
+    </select>
+    <label class="tg"><input type="checkbox" id="intern" checked> 인턴만</label>
+    <label class="tg"><input type="checkbox" id="fresh"> 오늘 뜬 공고</label>
+    <label class="tg"><input type="checkbox" id="starOnly"> ★ 관심만</label>
+  </div>
+  <div class="chips" id="chips"></div>
+
+  <div class="list" id="list"></div>
+
+  <details>
+    <summary>사이트별 수집 상태</summary>
+    <table id="status"></table>
+  </details>
+</div>
+
+<script>
+const CATS = ["전체", "금융권", "전략기획", "기타"];
+const st = { cat: "전체", sources: new Set(), data: null, unreadOnly: false };
+const store = {
+  get(k, def) { try { const v = localStorage.getItem(k); return v === null ? def : JSON.parse(v); } catch (e) { return def; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+let stars = new Set(store.get("stars", []));
+const saveStars = () => store.set("stars", [...stars]);
+
+// ── '안 본 공고' 기능 ──
+// seenMark: 마지막으로 "모두 확인함"을 누른 시점(첫 방문 시엔 그때의 업데이트 시각)
+// readIds : 그 이후 내가 직접 클릭해서 열어본 공고들
+let seenMark = store.get("seenMark", null);
+let readIds = new Set(store.get("readIds", []));
+const saveRead = () => { store.set("seenMark", seenMark); store.set("readIds", [...readIds]); };
+const isUnread = j => seenMark !== null && j.first_seen > seenMark && !readIds.has(j.uid);
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const today = () => { const d = new Date(); return new Date(d.getFullYear(), d.getMonth(), d.getDate()); };
+function dday(dl) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(dl || "")) return { txt: dl || "", n: 9999 };
+  const n = Math.round((new Date(dl + "T00:00:00") - today()) / 864e5);
+  return { txt: n < 0 ? "마감" : n === 0 ? "D-DAY" : `D-${n}`, n };
+}
+const isFresh = j => (Date.now() - new Date(j.first_seen.replace(" ", "T") + ":00+09:00")) < 864e5;
+
+function filtered(ignoreCat) {
+  const q = $("q").value.trim().toLowerCase();
+  return st.data.jobs.filter(j => {
+    if (!ignoreCat && st.cat !== "전체" && !j.categories.includes(st.cat)) return false;
+    if ($("intern").checked && !j.intern) return false;
+    if ($("fresh").checked && !isFresh(j)) return false;
+    if ($("starOnly").checked && !stars.has(j.uid)) return false;
+    if (st.unreadOnly && !isUnread(j)) return false;
+    if (st.sources.size && !st.sources.has(j.source)) return false;
+    if (dday(j.deadline).n < 0) return false;
+    if (q && !(j.title + " " + j.company + " " + j.tags.join(" ")).toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+function renderUnreadBar() {
+  // 안 본 공고 수는 '인턴만' 설정만 반영해서 셉니다 (다른 필터와 무관하게 전체 기준)
+  const all = st.data.jobs.filter(j => (!$("intern").checked || j.intern) && dday(j.deadline).n >= 0);
+  const n = all.filter(isUnread).length;
+  const bar = $("unreadbar");
+  if (n === 0) {
+    bar.className = "unreadbar none";
+    bar.innerHTML = `✓ 새로 확인할 공고가 없어요 <span class="sp"></span><span class="meta">마지막 확인 ${esc(seenMark || "")}</span>`;
+    if (st.unreadOnly) { st.unreadOnly = false; }
+    return;
+  }
+  bar.className = "unreadbar";
+  bar.innerHTML = `<span>🔔 마지막 확인 이후 새 공고 <b>${n}건</b></span>
+    <span class="meta">(마지막 확인 ${esc(seenMark)})</span><span class="sp"></span>
+    <button class="btn ${st.unreadOnly ? "" : "primary"}" id="toggleUnread">${st.unreadOnly ? "전체 공고 보기" : "안 본 공고만 보기"}</button>
+    <button class="btn" id="markAll">모두 확인함</button>`;
+  $("toggleUnread").onclick = () => { st.unreadOnly = !st.unreadOnly; render(); };
+  $("markAll").onclick = () => { seenMark = st.data.updated; readIds.clear(); st.unreadOnly = false; saveRead(); render(); };
+}
+
+function render() {
+  renderUnreadBar();
+  const base = filtered(true);
+  $("stats").innerHTML = CATS.map(c => {
+    const g = c === "전체" ? base : base.filter(j => j.categories.includes(c));
+    const un = g.filter(isUnread).length;
+    return `<div class="stat ${st.cat === c ? "on" : ""}" data-cat="${c}"><b>${g.length}</b><span>${c}</span>${un ? `<small>● ${un} 안 봄</small>` : ""}</div>`;
+  }).join("");
+  document.querySelectorAll(".stat").forEach(el => el.onclick = () => { st.cat = el.dataset.cat; render(); });
+
+  let jobs = filtered(false);
+  if ($("sort").value === "deadline") jobs.sort((a, b) => dday(a.deadline).n - dday(b.deadline).n);
+  $("list").innerHTML = jobs.length ? jobs.map(j => {
+    const d = dday(j.deadline);
+    const cls = d.n <= 2 ? "urgent" : d.n <= 7 ? "soon" : "";
+    const showCo = j.company && !j.title.includes(j.company);
+    const un = isUnread(j);
+    return `<div class="job ${un ? "unread" : ""}">
+      <div>
+        <a class="t" href="${esc(j.url)}" target="_blank" rel="noopener" data-uid="${esc(j.uid)}">${esc(j.title)}</a>
+        <div class="row2">
+          ${j.categories.map(c => `<span class="cat c-${c}">${c}</span>`).join("")}
+          ${showCo ? `<span class="co">${esc(j.company)}</span>` : ""}
+          <span>${esc(j.source)}</span>
+          ${un ? `<span class="dot">● 안 봄</span>` : isFresh(j) ? `<span class="new">NEW</span>` : ""}
+        </div>
+      </div>
+      <div class="side">
+        <button class="star ${stars.has(j.uid) ? "on" : ""}" data-uid="${esc(j.uid)}" title="관심 공고">★</button>
+        <span class="dday ${cls}">${esc(d.txt)}</span>
+      </div>
+      ${j.tags.length ? `<div class="tags">${esc(j.tags.join(" · "))}</div>` : ""}
+    </div>`;
+  }).join("") : `<div class="empty">조건에 맞는 공고가 없어요.</div>`;
+  // 공고 제목을 클릭해서 열면 '본 공고'로 처리
+  document.querySelectorAll("a.t").forEach(a => a.addEventListener("click", () => {
+    if (!readIds.has(a.dataset.uid)) { readIds.add(a.dataset.uid); saveRead(); setTimeout(render, 300); }
+  }));
+  document.querySelectorAll(".star").forEach(b => b.onclick = () => {
+    const u = b.dataset.uid; stars.has(u) ? stars.delete(u) : stars.add(u); saveStars(); render();
+  });
+}
+
+function renderStatic() {
+  const d = st.data;
+  $("meta").textContent = `마지막 업데이트 ${d.updated} (2시간마다 자동 갱신) · 전체 ${d.jobs.length}건`;
+  const names = Object.keys(d.sources);
+  const bad = names.filter(n => !d.sources[n].ok);
+  $("health").innerHTML = bad.length ? `<span class="bad">⚠ 수집 실패 ${bad.length}곳</span>` : `<span class="ok">● 전 사이트 정상</span>`;
+  $("chips").innerHTML = names.map(n => `<button class="chip" data-s="${esc(n)}">${esc(n)}</button>`).join("");
+  document.querySelectorAll(".chip").forEach(c => c.onclick = () => {
+    const s = c.dataset.s; st.sources.has(s) ? st.sources.delete(s) : st.sources.add(s);
+    c.classList.toggle("on"); render();
+  });
+  $("status").innerHTML = "<tr><th>사이트</th><th>상태</th><th>건수</th><th>마지막 성공</th><th>오류</th></tr>" +
+    names.map(n => { const s = d.sources[n];
+      return `<tr><td>${esc(n)}</td><td class="${s.ok ? "ok" : "bad"}">${s.ok ? "정상" : `실패 ${s.fails}회`}</td><td>${s.count}</td><td>${esc(s.last_ok)}</td><td>${esc(s.error)}</td></tr>`;
+    }).join("");
+}
+
+["q", "sort", "intern", "fresh", "starOnly"].forEach(id => $(id).addEventListener("input", render));
+fetch("data.json?t=" + Date.now()).then(r => r.json()).then(d => {
+  st.data = d;
+  // 첫 방문이면 '지금 이 시점'을 기준으로 삼아서, 다음부터 새로 들어온 공고만 '안 봄'으로 표시
+  const valid = s => /^\d{4}-\d{2}-\d{2}/.test(s || "");
+  if (!valid(seenMark)) { seenMark = valid(d.updated) ? d.updated : null; }
+  // 목록에서 사라진 공고 ID는 정리
+  const ids = new Set(d.jobs.map(j => j.uid));
+  readIds = new Set([...readIds].filter(u => ids.has(u)));
+  saveRead();
+  renderStatic(); render();
+})
+  .catch(() => { $("meta").textContent = "data.json을 아직 불러올 수 없어요. 첫 자동 실행이 끝나면 표시됩니다."; });
+</script>
+</body>
+</html>

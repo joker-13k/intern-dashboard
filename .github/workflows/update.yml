@@ -1,0 +1,44 @@
+# 2시간마다 공고를 수집하고, 결과를 저장한 뒤, 새 공고를 텔레그램으로 보냅니다.
+name: 인턴 공고 업데이트
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"     # 2시간마다 정각 (GitHub 사정에 따라 몇 분~수십 분 늦어질 수 있음)
+  workflow_dispatch:           # Actions 탭에서 'Run workflow' 버튼으로 바로 실행 가능
+
+permissions:
+  contents: write              # 수집 결과(data.json)를 저장소에 저장하기 위해 필요
+
+concurrency:
+  group: intern-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 공고 수집 + 텔레그램 알림
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+          NOTIFY_MODE: ${{ vars.NOTIFY_MODE || 'focus' }}
+        run: python scraper/main.py
+
+      - name: 결과 저장 (commit & push)
+        run: |
+          git config user.name "intern-bot"
+          git config user.email "intern-bot@users.noreply.github.com"
+          git add docs/data.json data/seen.json
+          git diff --cached --quiet || git commit -m "공고 업데이트 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push
