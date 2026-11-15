@@ -1,104 +1,715 @@
 {
- "updated": "2026-11-16 01:45",
+ "updated": "2026-11-16 07:23",
  "sources": {
   "성균관대": {
    "ok": true,
    "count": 20,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "네카페·공기업/금융공기업": {
    "ok": true,
    "count": 2,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "네카페·금융권 인턴": {
    "ok": true,
    "count": 50,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "네카페·컨설팅 RA": {
    "ok": true,
    "count": 50,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "금융투자협회": {
    "ok": true,
    "count": 3,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "링커리어": {
    "ok": true,
    "count": 44,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "연세대 MBA": {
    "ok": true,
    "count": 30,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "커리어점프": {
    "ok": true,
    "count": 15,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "인디스워크": {
    "ok": true,
    "count": 50,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "잡코리아": {
-   "ok": true,
-   "count": 40,
-   "fails": 0,
-   "checked": "2026-11-16 01:45",
+   "ok": false,
+   "count": 0,
+   "fails": 1,
+   "checked": "2026-11-16 07:23",
    "last_ok": "2026-11-16 01:45",
-   "error": ""
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Theme/TemplateMainGnoList/entry-level-internship?rlistTab=0&rOrderTab=1&bpart_no=0&jobFilter=1"
   },
   "사람인": {
    "ok": true,
    "count": 20,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   },
   "직행": {
    "ok": true,
    "count": 100,
    "fails": 0,
-   "checked": "2026-11-16 01:45",
-   "last_ok": "2026-11-16 01:45",
+   "checked": "2026-11-16 07:23",
+   "last_ok": "2026-11-16 07:23",
    "error": ""
   }
  },
  "jobs": [
+  {
+   "uid": "zighang:5cb6ce91-9c59-4087-aa7d-440377d38719",
+   "source": "직행",
+   "title": "[모비데이즈] 2026 하반기 인턴십 공개채용 (마케팅/사업기획/AI/HR 외)",
+   "company": "모비데이즈",
+   "url": "https://zighang.com/recruitment/5cb6ce91-9c59-4087-aa7d-440377d38719",
+   "deadline": "2026-12-06",
+   "posted": "2026-11-16",
+   "tags": [
+    "전환형인턴",
+    "기획·전략·경영",
+    "기타기획·전략·경영",
+    "광고대행",
+    "경영기획",
+    "자율출근"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:657dd287-702e-4a8c-933e-2ac94c22b895",
+   "source": "직행",
+   "title": "[모비데이즈] 2026 하반기 인턴십 공개채용",
+   "company": "모비데이즈",
+   "url": "https://zighang.com/recruitment/657dd287-702e-4a8c-933e-2ac94c22b895",
+   "deadline": "2026-12-06",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "영업",
+    "B2B영업",
+    "B2B",
+    "인턴",
+    "영업"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:b13135b8-8ef9-4afd-8310-6e9bff3a79cd",
+   "source": "직행",
+   "title": "[모비데이즈] 2026 하반기 인턴 공개채용 (마케팅/사업전략/AI/HR 외)",
+   "company": "모비데이즈",
+   "url": "https://zighang.com/recruitment/b13135b8-8ef9-4afd-8310-6e9bff3a79cd",
+   "deadline": "2026-12-06",
+   "posted": "2026-11-16",
+   "tags": [
+    "전환형인턴",
+    "마케팅·광고·홍보",
+    "기획·전략·경영",
+    "사업개발·분석",
+    "마케팅기획·전략",
+    "채용연계",
+    "퍼포먼스",
+    "디지털광고"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:f83890dc-f020-464a-997f-aab5b8e124f8",
+   "source": "직행",
+   "title": "Intern - Bachelor's - Hardware",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/f83890dc-f020-464a-997f-aab5b8e124f8",
+   "deadline": "상시",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "전기·전자·제어",
+    "PCB설계",
+    "자동화",
+    "하드웨어"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:a90b07c2-695f-45a0-b5e2-c834e7f66f61",
+   "source": "직행",
+   "title": "Intern - Bachelor's SW",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/a90b07c2-695f-45a0-b5e2-c834e7f66f61",
+   "deadline": "상시",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "기타IT·개발",
+    "코드리뷰",
+    "자동화",
+    "개발인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:fdeea2fd-5a51-4e52-b73a-c5936d7feb87",
+   "source": "직행",
+   "title": "Stage: Conception et déploiement d’un assistant IA d’ingénierie",
+   "company": "GE헬스케어",
+   "url": "https://zighang.com/recruitment/fdeea2fd-5a51-4e52-b73a-c5936d7feb87",
+   "deadline": "상시",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "AI·데이터",
+    "RAG",
+    "RAG",
+    "커넥터개발",
+    "의료기기"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:d0be9306-5d12-4747-b279-570388a75799",
+   "source": "직행",
+   "title": "Design Engineer Intern (Tamayouz Program)- Great opportunity for fresh Saudi graduates",
+   "company": "지멘스",
+   "url": "https://zighang.com/recruitment/d0be9306-5d12-4747-b279-570388a75799",
+   "deadline": "상시",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "응용프로그램",
+    "스마트빌딩",
+    "출근",
+    "소프트웨어개발"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:b609327e-33ed-4d0a-b113-02bc7ccce1d6",
+   "source": "직행",
+   "title": "Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027",
+   "company": "필립스",
+   "url": "https://zighang.com/recruitment/b609327e-33ed-4d0a-b113-02bc7ccce1d6",
+   "deadline": "상시",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "PM·PO",
+    "요구사항정의",
+    "헬스테크",
+    "의사인터뷰"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:e9e4f9d8-d139-49bb-a25b-09617db8baf0",
+   "source": "직행",
+   "title": "Stage Ingénieur(e) Conception Mécanique Assemblage électromécanique d’un module Inverter",
+   "company": "GE헬스케어",
+   "url": "https://zighang.com/recruitment/e9e4f9d8-d139-49bb-a25b-09617db8baf0",
+   "deadline": "상시",
+   "posted": "2026-11-16",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "기계설계·CAD",
+    "기계설계",
+    "열해석",
+    "의료기기"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420265",
+   "source": "인디스워크",
+   "title": "토스증권｜IT 어시스턴트 (단기계약직) (IT Assistant)",
+   "company": "토스증권",
+   "url": "https://inthiswork.com/archives/420265",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420262",
+   "source": "인디스워크",
+   "title": "토스페이먼츠｜B2B 마케팅 어시스턴트(Creative) B2B Marketing Assistant",
+   "company": "토스페이먼츠",
+   "url": "https://inthiswork.com/archives/420262",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "마케팅홍보",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420259",
+   "source": "인디스워크",
+   "title": "토스｜IT 어시스턴트 (단기계약직) (인재풀) (IT Assistant)",
+   "company": "토스",
+   "url": "https://inthiswork.com/archives/420259",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420254",
+   "source": "인디스워크",
+   "title": "토스증권｜Marketing Creative Assistant",
+   "company": "토스증권",
+   "url": "https://inthiswork.com/archives/420254",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "디자인",
+    "마케팅홍보",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420251",
+   "source": "인디스워크",
+   "title": "토스인사이트｜Research Assistant",
+   "company": "토스인사이트",
+   "url": "https://inthiswork.com/archives/420251",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "리서치컨설팅",
+    "금융투자",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420248",
+   "source": "인디스워크",
+   "title": "토스페이먼츠｜총무 담당자 (General Affairs Assistant)",
+   "company": "토스페이먼츠",
+   "url": "https://inthiswork.com/archives/420248",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "사무지원행정",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420245",
+   "source": "인디스워크",
+   "title": "토스뱅크｜General Affairs Assistant",
+   "company": "토스뱅크",
+   "url": "https://inthiswork.com/archives/420245",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "사무지원행정",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420242",
+   "source": "인디스워크",
+   "title": "토스페이먼츠｜프로덕트 디자인 어시스턴트 (Product Design Assistant)",
+   "company": "토스페이먼츠",
+   "url": "https://inthiswork.com/archives/420242",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "디자인",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420239",
+   "source": "인디스워크",
+   "title": "엘리스｜콘텐츠 엔지니어 (AI 교육, 신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420239",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "교육업",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420236",
+   "source": "인디스워크",
+   "title": "엘리스｜인프라·오피스 IT 테크니션 (신입/경력)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420236",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420233",
+   "source": "인디스워크",
+   "title": "엘리스｜인프라 SRE 엔지니어 (신입/경력)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420233",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420230",
+   "source": "인디스워크",
+   "title": "엘리스｜인프라 DevOps 엔지니어 (신입/경력)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420230",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420227",
+   "source": "인디스워크",
+   "title": "엘리스｜클라우드 테크니컬 프로그램 매니저 (신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420227",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "영업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420224",
+   "source": "인디스워크",
+   "title": "엘리스｜클라우드 솔루션 엔지니어 (신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420224",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420221",
+   "source": "인디스워크",
+   "title": "엘리스｜클라우드 사업개발 매니저 (신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420221",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "스타트업",
+    "영업",
+    "채용시마감"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420218",
+   "source": "인디스워크",
+   "title": "엘리스｜클라우드 글로벌 사업개발 매니저 (신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420218",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "스타트업",
+    "해외사업",
+    "채용시마감"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420215",
+   "source": "인디스워크",
+   "title": "엘리스｜인프라 네트워크 엔지니어 (신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420215",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420212",
+   "source": "인디스워크",
+   "title": "엘리스｜인프라 시스템 엔지니어 (신입)",
+   "company": "엘리스",
+   "url": "https://inthiswork.com/archives/420212",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420209",
+   "source": "인디스워크",
+   "title": "트러스테이｜노크타운/노크존 플랫폼 영업 인턴(정규전환형)",
+   "company": "트러스테이",
+   "url": "https://inthiswork.com/archives/420209",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "스타트업",
+    "영업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "inthiswork:420206",
+   "source": "인디스워크",
+   "title": "트러스테이｜플랫폼 활성화 매니저 채용 (외근직/정규직 전환형 인턴십)",
+   "company": "트러스테이",
+   "url": "https://inthiswork.com/archives/420206",
+   "deadline": "",
+   "posted": "2026-11-15",
+   "tags": [
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-16 07:23",
+   "last_seen": "2026-11-16 07:23"
+  },
   {
    "uid": "zighang:66f1f982-1a3f-4aef-802c-823b9a0d4a35",
    "source": "직행",
@@ -120,7 +731,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 01:45",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364133",
@@ -139,7 +750,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 01:45",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364103",
@@ -159,7 +770,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 01:45",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "jobkorea:50364998",
@@ -429,7 +1040,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 06:54",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70723",
@@ -445,7 +1056,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 01:19",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:086349b6-61c0-49c0-9d77-349e89fd0f3a",
@@ -468,7 +1079,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 01:19",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:0cc56460-ed27-4c6e-92ee-93afdde3335d",
@@ -491,7 +1102,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 01:19",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:ee1686c1-008b-4161-9183-f5e254605513",
@@ -514,7 +1125,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 01:19",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:0b331e34-ed3e-4887-a552-7d96e66ed25a",
@@ -537,7 +1148,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 01:19",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "jobkorea:50364422",
@@ -823,7 +1434,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420167",
@@ -844,7 +1455,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420164",
@@ -865,7 +1476,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420161",
@@ -886,7 +1497,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420157",
@@ -906,7 +1517,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420152",
@@ -926,7 +1537,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420149",
@@ -946,7 +1557,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420146",
@@ -966,7 +1577,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420100",
@@ -988,7 +1599,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420097",
@@ -1008,7 +1619,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:db3116c4-542e-4539-bcd2-e8a1dc1316e5",
@@ -1031,7 +1642,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:186019a6-e88a-4181-a9d0-4fb914bd33aa",
@@ -1055,7 +1666,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:85f9f6d7-c065-435f-a84b-e9fb03746628",
@@ -1079,7 +1690,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:ee9d34b4-fe59-49d5-aeb1-76466fe7dcee",
@@ -1102,7 +1713,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:443e07eb-a30e-48b0-9ce5-8c1d2a13c5ee",
@@ -1125,7 +1736,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:a9761c85-803d-4d82-929a-f0aaafa6d262",
@@ -1148,7 +1759,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:5a26de7f-badc-4588-82e3-d61d0c704557",
@@ -1171,7 +1782,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:4a6f7614-1db1-4c82-944b-63464582eea1",
@@ -1194,7 +1805,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:0e47769c-1f7d-419c-9e3e-526b7a3fc53d",
@@ -1217,7 +1828,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:536e2f3a-1ad0-4201-ac53-ab666c3f488d",
@@ -1240,7 +1851,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:35c5c132-fed2-4e08-8b9f-785a08c09556",
@@ -1263,7 +1874,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:481b64cb-c2ac-4b5f-a473-74ff67fbb39c",
@@ -1286,7 +1897,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:ba8a18b8-ddcc-4f9b-b52a-b30abe7e0450",
@@ -1309,7 +1920,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:2a2b5b3e-a345-4266-a044-a2f7019430ea",
@@ -1332,7 +1943,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:378069fc-87fe-4324-9f01-c28afdce25e0",
@@ -1355,7 +1966,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:7fd2f898-dbe5-48af-9131-ec0fa9d4b089",
@@ -1378,7 +1989,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:800f45d2-ecc2-4461-910e-438882c5bed3",
@@ -1401,7 +2012,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:d2f90dba-44a5-4396-ae0c-5811047d4572",
@@ -1424,7 +2035,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:124a7ce1-dc66-4b83-bf26-8a72d7959e61",
@@ -1447,7 +2058,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:4184f2d8-ed3e-4390-9ab6-1d1e8b7f9607",
@@ -1470,7 +2081,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:450bdf48-6502-4256-85eb-b421c80c968b",
@@ -1493,7 +2104,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:87290acd-0733-4d7c-bf12-463c4915a182",
@@ -1515,7 +2126,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:77024f63-7835-4b20-97a6-fb97cd61ae08",
@@ -1538,7 +2149,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:b3eb065a-0ffe-4c6d-a57c-ee737d816b95",
@@ -1561,7 +2172,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:8f3e164c-29be-45af-ba96-52b85ca4786a",
@@ -1584,7 +2195,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:f0c54032-0585-4adc-ac1c-79e4eebbd594",
@@ -1607,7 +2218,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:e5d86a8c-8bc4-4220-b848-fa144cfa2f24",
@@ -1630,7 +2241,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:eccd7adb-0f01-4db5-80e8-61de347010fb",
@@ -1653,7 +2264,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:e20b3cd4-d486-415f-a691-c1ddc88be2ae",
@@ -1676,7 +2287,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:f7a0eb7b-2bb4-4842-8a5d-5bc0a1a868a8",
@@ -1699,7 +2310,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:95396503-5cdd-429c-916f-0c1835992c90",
@@ -1722,7 +2333,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:d8ccf191-64c9-45a4-8bf4-c2dbadca4e4f",
@@ -1745,7 +2356,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:8bddfc37-d717-4ba9-98c0-a86aed4fac4b",
@@ -1768,7 +2379,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:6cf43c4b-add5-4643-8e3b-537b11b41cc4",
@@ -1791,7 +2402,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:88d40f9b-0385-40ee-88dc-b9ccde6c8f32",
@@ -1814,7 +2425,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:d7c4d80d-3255-4899-8e40-0ba36dbe4548",
@@ -1837,7 +2448,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:15ecd0b3-9513-42b6-bb31-b6553ccc1559",
@@ -1860,7 +2471,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:faaa4c84-eb42-4002-a174-4a2c5882b870",
@@ -1883,7 +2494,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:c5bb7c62-babf-4d05-8ee3-1fba98b43bef",
@@ -1906,7 +2517,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:22eb9717-8add-4df1-a596-c3831eb44f77",
@@ -1930,7 +2541,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:97904908-8d35-4f2b-abd8-1f9396888601",
@@ -1953,7 +2564,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:5997d0ef-552d-47ea-90a9-40d0bdc7a82c",
@@ -1976,7 +2587,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:3f8e93a4-e311-46b5-a41c-dc85eefb798d",
@@ -1999,7 +2610,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:3c2a47d1-412c-41f4-b9c2-a001aee0401d",
@@ -2022,7 +2633,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:1df720f0-e2fd-4439-bc08-7bc3adeb69d1",
@@ -2045,7 +2656,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:c35a09af-27cd-475d-b60d-771aea168aac",
@@ -2068,7 +2679,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:1e92ef6f-785d-485b-bdb5-1bd07b445571",
@@ -2091,7 +2702,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:2ac02e12-e259-4e4d-a9db-97e32f460dfa",
@@ -2114,7 +2725,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:649ce936-52b8-47a0-94b1-ad2b98db4ea2",
@@ -2137,7 +2748,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:00bddbc2-d7c9-4171-a155-10cbeb1d552b",
@@ -2160,7 +2771,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:5235ed08-5500-41b0-85f0-a1c6af1563da",
@@ -2183,7 +2794,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:94d2ee98-fbad-44a6-bb42-e851ad40ffcc",
@@ -2206,7 +2817,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:708bd97e-d407-4f1d-931d-098efac7c6d3",
@@ -2229,7 +2840,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:5de43347-6390-4224-a52c-431664d89b8f",
@@ -2252,7 +2863,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:3c5a67b6-4037-4a41-b09c-4c260fff4f68",
@@ -2275,7 +2886,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:699edaf4-7a33-40f9-af24-3222a57cb37e",
@@ -2298,7 +2909,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:38abfe72-bff4-4e48-ae50-6db06010a17f",
@@ -2322,7 +2933,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:b48d7a67-ec13-4586-9c36-e1a670c5ee42",
@@ -2345,7 +2956,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:2da382b0-0e2e-48aa-a5ef-2335d58daed3",
@@ -2368,7 +2979,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:7c6d1d20-7613-43ed-8dca-b23292cd09e2",
@@ -2391,7 +3002,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:e7cffb6e-8e08-4110-9fa6-8fe3b13dbe9b",
@@ -2414,7 +3025,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:6480d481-d7d9-4085-8ac3-0bbf6ef1e15a",
@@ -2437,7 +3048,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:b32b91cb-92e2-4382-b64c-1732d11b51b6",
@@ -2460,7 +3071,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:1b6f94d3-f70e-4867-ae60-8a5815b1407b",
@@ -2483,7 +3094,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:29c9de64-2a4f-4d4f-ba4a-ff95dc21d578",
@@ -2506,7 +3117,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:15ddb8c4-203d-4874-b26c-c4f96098425f",
@@ -2530,7 +3141,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:da936445-d0bf-4d8c-adda-635532f4dc3a",
@@ -2553,7 +3164,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:ecf7c3d3-4512-48ed-b921-20508adda021",
@@ -2576,7 +3187,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:785dd6be-ad9e-42e8-94c5-da888711430f",
@@ -2599,7 +3210,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "zighang:f4c4efce-9f80-4e83-a67f-3026eca3e8a8",
@@ -2622,7 +3233,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3324600",
@@ -2638,7 +3249,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3324450",
@@ -2654,7 +3265,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70721",
@@ -2670,7 +3281,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70720",
@@ -2686,7 +3297,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70718",
@@ -2702,7 +3313,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70717",
@@ -2718,7 +3329,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70716",
@@ -2734,7 +3345,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70715",
@@ -2750,7 +3361,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "kofia:43134",
@@ -2768,7 +3379,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "kofia:43133",
@@ -2786,7 +3397,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420092",
@@ -2807,7 +3418,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420079",
@@ -2832,7 +3443,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420076",
@@ -2852,7 +3463,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420073",
@@ -2872,7 +3483,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420070",
@@ -2891,7 +3502,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420065",
@@ -2910,7 +3521,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420062",
@@ -2930,7 +3541,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420057",
@@ -2951,7 +3562,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420050",
@@ -2973,7 +3584,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420044",
@@ -2994,7 +3605,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420034",
@@ -3017,7 +3628,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420029",
@@ -3038,7 +3649,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420025",
@@ -3057,7 +3668,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420021",
@@ -3075,7 +3686,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420012",
@@ -3094,7 +3705,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420006",
@@ -3112,7 +3723,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:420002",
@@ -3132,7 +3743,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:419999",
@@ -3151,7 +3762,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:419996",
@@ -3171,7 +3782,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:419990",
@@ -3198,7 +3809,360 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:157300e7-8cca-4523-bf5c-44f065748851",
+   "source": "직행",
+   "title": "(주)제이프로텍 무역 관리 사원 채용",
+   "company": "제이프로텍",
+   "url": "https://zighang.com/recruitment/157300e7-8cca-4523-bf5c-44f065748851",
+   "deadline": "2026-12-13",
+   "posted": "2026-11-13",
+   "tags": [
+    "전환형인턴",
+    "무역·물류·유통",
+    "수출입관리·사무",
+    "인턴",
+    "수출입관리",
+    "무역상사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:68dcadb9-ae72-4b2f-b3cd-b9e25764015a",
+   "source": "직행",
+   "title": "[신용산] 글로벌 헬스케어 기업 `K` 의학 마케팅 체험형 인턴 (6개월)",
+   "company": "맨파워코리아",
+   "url": "https://zighang.com/recruitment/68dcadb9-ae72-4b2f-b3cd-b9e25764015a",
+   "deadline": "2026-12-13",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "콘텐츠마케팅",
+    "의학문헌조사",
+    "헬스케어",
+    "KOL소통"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:726d311a-adf7-402f-954b-421e962a22e6",
+   "source": "직행",
+   "title": "한국공항(주) 항공정비 신입직원 모집",
+   "company": "한국공항",
+   "url": "https://zighang.com/recruitment/726d311a-adf7-402f-954b-421e962a22e6",
+   "deadline": "2026-11-22",
+   "posted": "2026-11-13",
+   "tags": [
+    "전환형인턴",
+    "엔지니어링·연구·RND",
+    "기타엔지니어링·RND",
+    "항공정비",
+    "항공운송",
+    "교통비지원"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:31a4c334-e989-466e-b219-2d14e7821311",
+   "source": "직행",
+   "title": "[종합광고대행사]정직원 전환형 신입 아트디렉터/AD 모집",
+   "company": "비웨이브랩",
+   "url": "https://zighang.com/recruitment/31a4c334-e989-466e-b219-2d14e7821311",
+   "deadline": "2026-12-13",
+   "posted": "2026-11-13",
+   "tags": [
+    "전환형인턴",
+    "디자인",
+    "광고·콘텐츠",
+    "광고대행",
+    "영상광고",
+    "아트디렉터"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:749104ff-394c-4a49-b7d9-d7764fea0a29",
+   "source": "직행",
+   "title": "[다산회계법인 2본부] 국가 R&D사업 연구비 정산 보조 모집",
+   "company": "다산회계법인",
+   "url": "https://zighang.com/recruitment/749104ff-394c-4a49-b7d9-d7764fea0a29",
+   "deadline": "2026-12-13",
+   "posted": "2026-11-13",
+   "tags": [
+    "전환형인턴",
+    "회계·세무·재무",
+    "경리·회계보조",
+    "인턴",
+    "연구비정산",
+    "국가RD"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:eff8bb8a-b8af-4c3c-9b72-cca8665ba192",
+   "source": "직행",
+   "title": "[다인] 사업부 사업운영담당 채용형 인턴",
+   "company": "다인",
+   "url": "https://zighang.com/recruitment/eff8bb8a-b8af-4c3c-9b72-cca8665ba192",
+   "deadline": "2027-01-12",
+   "posted": "2026-11-13",
+   "tags": [
+    "전환형인턴",
+    "기획·전략·경영",
+    "운영관리·OM",
+    "EAP",
+    "사업기획",
+    "시차출퇴근"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:ef1d6ac4-e02e-4349-b777-e850e0f7d9b6",
+   "source": "직행",
+   "title": "기획 디자인 팀장급 PM을 모십니다",
+   "company": "디자인토큰",
+   "url": "https://zighang.com/recruitment/ef1d6ac4-e02e-4349-b777-e850e0f7d9b6",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-13",
+   "tags": [
+    "정규직",
+    "계약직",
+    "체험형인턴",
+    "건설·건축",
+    "기획·전략·경영",
+    "프로젝트매니저",
+    "건축설계·시공",
+    "공간디자인",
+    "유연근무",
+    "PM"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:5628b927-1e64-484f-8483-89b0244f5f47",
+   "source": "직행",
+   "title": "[ootb STUDIO] 오오티비 예능PD 모집",
+   "company": "오오티비",
+   "url": "https://zighang.com/recruitment/5628b927-1e64-484f-8483-89b0244f5f47",
+   "deadline": "2026-11-27",
+   "posted": "2026-11-13",
+   "tags": [
+    "전환형인턴",
+    "미디어·엔터·방송",
+    "PD·감독",
+    "인턴",
+    "예능",
+    "촬영편집"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:f178db8d-7d3f-47e8-a8e2-c8e012e4895c",
+   "source": "직행",
+   "title": "[베이직스] 피플팀 인사총무 인턴 채용",
+   "company": "베이직스",
+   "url": "https://zighang.com/recruitment/f178db8d-7d3f-47e8-a8e2-c8e012e4895c",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "인사·노무·HRD·총무",
+    "기타HR·총무",
+    "인턴",
+    "전자",
+    "인사행정"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:919cbd58-ed98-4349-91e9-d9ca3a6c66aa",
+   "source": "직행",
+   "title": "인턴사원 모집",
+   "company": "노이베크코리아",
+   "url": "https://zighang.com/recruitment/919cbd58-ed98-4349-91e9-d9ca3a6c66aa",
+   "deadline": "2026-11-22",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "인사·노무·HRD·총무",
+    "기타HR·총무",
+    "인사행정",
+    "셔틀버스",
+    "자동차부품"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:34ba66b9-4de4-4d04-9161-94c66765532e",
+   "source": "직행",
+   "title": "2026년 각 부문별 인턴/신입/경력 엔지니어 채용",
+   "company": "KLA",
+   "url": "https://zighang.com/recruitment/34ba66b9-4de4-4d04-9161-94c66765532e",
+   "deadline": "2026-11-22",
+   "posted": "2026-11-13",
+   "tags": [
+    "정규직",
+    "체험형인턴",
+    "AI·데이터",
+    "반도체",
+    "Equipment·Engineer",
+    "AI리서치",
+    "기타반도체",
+    "반도체",
+    "장비설치",
+    "알고리즘개발"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:38d72a23-bb18-4f94-90ae-a49d82fb4cbe",
+   "source": "직행",
+   "title": "[(주)다날투자파트너스] 투자육성팀 인턴 채용",
+   "company": "주식회사 다날투자파트너스",
+   "url": "https://zighang.com/recruitment/38d72a23-bb18-4f94-90ae-a49d82fb4cbe",
+   "deadline": "2026-12-13",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "증권·운용",
+    "VC·PE",
+    "벤처투자",
+    "인턴",
+    "투자리서치"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:58ed5047-f27e-4631-b720-8bcc438c91b8",
+   "source": "직행",
+   "title": "2026년 2차 장애인 인턴행정원 제한경쟁 선발 공고",
+   "company": "한국한의학연구원",
+   "url": "https://zighang.com/recruitment/58ed5047-f27e-4631-b720-8bcc438c91b8",
+   "deadline": "2026-11-28",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "행정지원",
+    "선택근로",
+    "공공기관"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:144241ab-7333-4b3d-a7a9-4b730730da95",
+   "source": "직행",
+   "title": "[미국] 건설·지붕·방수 전문기업 CAD 설계 및 프로젝트 관리 모집",
+   "company": "AME Builders",
+   "url": "https://zighang.com/recruitment/144241ab-7333-4b3d-a7a9-4b730730da95",
+   "deadline": "상시",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "건설·건축",
+    "건축설계·시공",
+    "CAD도면",
+    "건설",
+    "프로젝트관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "zighang:c6acf91b-c65a-4f87-a7e7-4f749ccc28a1",
+   "source": "직행",
+   "title": "Actuarial Pricing Intern",
+   "company": "AIA생명",
+   "url": "https://zighang.com/recruitment/c6acf91b-c65a-4f87-a7e7-4f749ccc28a1",
+   "deadline": "상시",
+   "posted": "2026-11-13",
+   "tags": [
+    "체험형인턴",
+    "은행·보험·카드·캐피탈",
+    "보험상품개발",
+    "보험",
+    "인턴",
+    "보험료산정"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:419987",
@@ -3610,359 +4574,6 @@
    "last_seen": "2026-11-16 01:45"
   },
   {
-   "uid": "zighang:157300e7-8cca-4523-bf5c-44f065748851",
-   "source": "직행",
-   "title": "(주)제이프로텍 무역 관리 사원 채용",
-   "company": "제이프로텍",
-   "url": "https://zighang.com/recruitment/157300e7-8cca-4523-bf5c-44f065748851",
-   "deadline": "2026-12-13",
-   "posted": "2026-11-13",
-   "tags": [
-    "전환형인턴",
-    "무역·물류·유통",
-    "수출입관리·사무",
-    "인턴",
-    "수출입관리",
-    "무역상사"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:68dcadb9-ae72-4b2f-b3cd-b9e25764015a",
-   "source": "직행",
-   "title": "[신용산] 글로벌 헬스케어 기업 `K` 의학 마케팅 체험형 인턴 (6개월)",
-   "company": "맨파워코리아",
-   "url": "https://zighang.com/recruitment/68dcadb9-ae72-4b2f-b3cd-b9e25764015a",
-   "deadline": "2026-12-13",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "마케팅·광고·홍보",
-    "콘텐츠마케팅",
-    "의학문헌조사",
-    "헬스케어",
-    "KOL소통"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:726d311a-adf7-402f-954b-421e962a22e6",
-   "source": "직행",
-   "title": "한국공항(주) 항공정비 신입직원 모집",
-   "company": "한국공항",
-   "url": "https://zighang.com/recruitment/726d311a-adf7-402f-954b-421e962a22e6",
-   "deadline": "2026-11-22",
-   "posted": "2026-11-13",
-   "tags": [
-    "전환형인턴",
-    "엔지니어링·연구·RND",
-    "기타엔지니어링·RND",
-    "항공정비",
-    "항공운송",
-    "교통비지원"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:31a4c334-e989-466e-b219-2d14e7821311",
-   "source": "직행",
-   "title": "[종합광고대행사]정직원 전환형 신입 아트디렉터/AD 모집",
-   "company": "비웨이브랩",
-   "url": "https://zighang.com/recruitment/31a4c334-e989-466e-b219-2d14e7821311",
-   "deadline": "2026-12-13",
-   "posted": "2026-11-13",
-   "tags": [
-    "전환형인턴",
-    "디자인",
-    "광고·콘텐츠",
-    "광고대행",
-    "영상광고",
-    "아트디렉터"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:749104ff-394c-4a49-b7d9-d7764fea0a29",
-   "source": "직행",
-   "title": "[다산회계법인 2본부] 국가 R&D사업 연구비 정산 보조 모집",
-   "company": "다산회계법인",
-   "url": "https://zighang.com/recruitment/749104ff-394c-4a49-b7d9-d7764fea0a29",
-   "deadline": "2026-12-13",
-   "posted": "2026-11-13",
-   "tags": [
-    "전환형인턴",
-    "회계·세무·재무",
-    "경리·회계보조",
-    "인턴",
-    "연구비정산",
-    "국가RD"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:eff8bb8a-b8af-4c3c-9b72-cca8665ba192",
-   "source": "직행",
-   "title": "[다인] 사업부 사업운영담당 채용형 인턴",
-   "company": "다인",
-   "url": "https://zighang.com/recruitment/eff8bb8a-b8af-4c3c-9b72-cca8665ba192",
-   "deadline": "2027-01-12",
-   "posted": "2026-11-13",
-   "tags": [
-    "전환형인턴",
-    "기획·전략·경영",
-    "운영관리·OM",
-    "EAP",
-    "사업기획",
-    "시차출퇴근"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:ef1d6ac4-e02e-4349-b777-e850e0f7d9b6",
-   "source": "직행",
-   "title": "기획 디자인 팀장급 PM을 모십니다",
-   "company": "디자인토큰",
-   "url": "https://zighang.com/recruitment/ef1d6ac4-e02e-4349-b777-e850e0f7d9b6",
-   "deadline": "2026-12-31",
-   "posted": "2026-11-13",
-   "tags": [
-    "정규직",
-    "계약직",
-    "체험형인턴",
-    "건설·건축",
-    "기획·전략·경영",
-    "프로젝트매니저",
-    "건축설계·시공",
-    "공간디자인",
-    "유연근무",
-    "PM"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:5628b927-1e64-484f-8483-89b0244f5f47",
-   "source": "직행",
-   "title": "[ootb STUDIO] 오오티비 예능PD 모집",
-   "company": "오오티비",
-   "url": "https://zighang.com/recruitment/5628b927-1e64-484f-8483-89b0244f5f47",
-   "deadline": "2026-11-27",
-   "posted": "2026-11-13",
-   "tags": [
-    "전환형인턴",
-    "미디어·엔터·방송",
-    "PD·감독",
-    "인턴",
-    "예능",
-    "촬영편집"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:f178db8d-7d3f-47e8-a8e2-c8e012e4895c",
-   "source": "직행",
-   "title": "[베이직스] 피플팀 인사총무 인턴 채용",
-   "company": "베이직스",
-   "url": "https://zighang.com/recruitment/f178db8d-7d3f-47e8-a8e2-c8e012e4895c",
-   "deadline": "2026-12-31",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "인사·노무·HRD·총무",
-    "기타HR·총무",
-    "인턴",
-    "전자",
-    "인사행정"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:919cbd58-ed98-4349-91e9-d9ca3a6c66aa",
-   "source": "직행",
-   "title": "인턴사원 모집",
-   "company": "노이베크코리아",
-   "url": "https://zighang.com/recruitment/919cbd58-ed98-4349-91e9-d9ca3a6c66aa",
-   "deadline": "2026-11-22",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "인사·노무·HRD·총무",
-    "기타HR·총무",
-    "인사행정",
-    "셔틀버스",
-    "자동차부품"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:34ba66b9-4de4-4d04-9161-94c66765532e",
-   "source": "직행",
-   "title": "2026년 각 부문별 인턴/신입/경력 엔지니어 채용",
-   "company": "KLA",
-   "url": "https://zighang.com/recruitment/34ba66b9-4de4-4d04-9161-94c66765532e",
-   "deadline": "2026-11-22",
-   "posted": "2026-11-13",
-   "tags": [
-    "정규직",
-    "체험형인턴",
-    "AI·데이터",
-    "반도체",
-    "Equipment·Engineer",
-    "AI리서치",
-    "기타반도체",
-    "반도체",
-    "장비설치",
-    "알고리즘개발"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:38d72a23-bb18-4f94-90ae-a49d82fb4cbe",
-   "source": "직행",
-   "title": "[(주)다날투자파트너스] 투자육성팀 인턴 채용",
-   "company": "주식회사 다날투자파트너스",
-   "url": "https://zighang.com/recruitment/38d72a23-bb18-4f94-90ae-a49d82fb4cbe",
-   "deadline": "2026-12-13",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "증권·운용",
-    "VC·PE",
-    "벤처투자",
-    "인턴",
-    "투자리서치"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:58ed5047-f27e-4631-b720-8bcc438c91b8",
-   "source": "직행",
-   "title": "2026년 2차 장애인 인턴행정원 제한경쟁 선발 공고",
-   "company": "한국한의학연구원",
-   "url": "https://zighang.com/recruitment/58ed5047-f27e-4631-b720-8bcc438c91b8",
-   "deadline": "2026-11-28",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "공공·복지",
-    "행정·사무·운영",
-    "행정지원",
-    "선택근로",
-    "공공기관"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:144241ab-7333-4b3d-a7a9-4b730730da95",
-   "source": "직행",
-   "title": "[미국] 건설·지붕·방수 전문기업 CAD 설계 및 프로젝트 관리 모집",
-   "company": "AME Builders",
-   "url": "https://zighang.com/recruitment/144241ab-7333-4b3d-a7a9-4b730730da95",
-   "deadline": "상시",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "건설·건축",
-    "건축설계·시공",
-    "CAD도면",
-    "건설",
-    "프로젝트관리"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "zighang:c6acf91b-c65a-4f87-a7e7-4f749ccc28a1",
-   "source": "직행",
-   "title": "Actuarial Pricing Intern",
-   "company": "AIA생명",
-   "url": "https://zighang.com/recruitment/c6acf91b-c65a-4f87-a7e7-4f749ccc28a1",
-   "deadline": "상시",
-   "posted": "2026-11-13",
-   "tags": [
-    "체험형인턴",
-    "은행·보험·카드·캐피탈",
-    "보험상품개발",
-    "보험",
-    "인턴",
-    "보험료산정"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
    "uid": "zighang:3ee0a64a-e4d1-459d-9955-4026f7e00879",
    "source": "직행",
    "title": "Internship – Innovation Management (f/m/x)",
@@ -4296,7 +4907,7 @@
    "source": "성균관대",
    "title": "[클럭, 몽제] 마케팅팀 인턴 채용 (채용 연계형)",
    "company": "데일리앤코",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIX09w5EhYIFFDHDs4QZ26mf&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1tgNYEeYMuqcUay1FS6fE25&modalChk=Y",
    "deadline": "2026-11-23",
    "posted": "",
    "tags": [
@@ -4308,14 +4919,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165216",
    "source": "성균관대",
    "title": "[미국인턴] HANJIN GLOBAL 항공무역 사무원 인턴 채용 (뉴저지)",
    "company": "(주)한진",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIWontnJwJPr00QzYbCBoIox&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1yAgF1CLG7aBqG5IwEWHk4L&modalChk=Y",
    "deadline": "2026-12-06",
    "posted": "",
    "tags": [
@@ -4326,14 +4937,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165214",
    "source": "성균관대",
    "title": "[SNOW] 남미 콘텐츠 마케팅 체험형 인턴 모집",
    "company": "SNOW",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIVAiym47Gck1lsRYlF8qExq&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1vXY7x9yDvwyfKAuUxS4Cng&modalChk=Y",
    "deadline": "2026-11-23",
    "posted": "",
    "tags": [
@@ -4344,14 +4955,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165212",
    "source": "성균관대",
    "title": "[핑거수트] 뷰티패션 브랜드 마케터 인턴 채용 (KR/JP)",
    "company": "데일리앤코",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIRCT5rbgr3pO2YDpwcVmlBk&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1xj4gmyyVy623fcEEV3jsbw&modalChk=Y",
    "deadline": "2026-11-25",
    "posted": "",
    "tags": [
@@ -4362,14 +4973,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165209",
    "source": "성균관대",
    "title": "[아이패밀리SC] 피플&컬쳐팀 채용/조직문화(인턴) 채용",
    "company": "아이패밀리SC",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIYILEE3ggup5k8igDIIf0Cs&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq20hlZkXiqTNjnuOoX5kFfCW&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -4382,14 +4993,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165208",
    "source": "성균관대",
    "title": "[GBP] 독일 프랑크푸르트 라인마인 국제투자진흥공사 한국사무소 단기인턴채용",
    "company": "GBP",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjISZltY5aT7ciOarnhXFMKzm&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1ySOWhetSV5mvwIEQFAoOz4&modalChk=Y",
    "deadline": "2026-11-18",
    "posted": "",
    "tags": [
@@ -4400,14 +5011,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165204",
    "source": "성균관대",
    "title": "[모비데이즈] 36기 인턴십 모집공고",
    "company": "모비데이즈",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIVJsRs3rRGEszYKU2pAzKmZ&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1tJLgtfXK7BZnNoxs7rC7Ca&modalChk=Y",
    "deadline": "2026-12-06",
    "posted": "",
    "tags": [
@@ -4418,7 +5029,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364423",
@@ -4436,7 +5047,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364422",
@@ -4454,7 +5065,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364421",
@@ -4472,7 +5083,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364410",
@@ -4490,7 +5101,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364408",
@@ -4508,7 +5119,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364407",
@@ -4526,7 +5137,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364404",
@@ -4545,7 +5156,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364395",
@@ -4563,7 +5174,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364334",
@@ -4579,7 +5190,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364332",
@@ -4598,7 +5209,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364313",
@@ -4617,7 +5228,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364309",
@@ -4633,7 +5244,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364304",
@@ -4652,7 +5263,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364300",
@@ -4671,7 +5282,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364292",
@@ -4689,7 +5300,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364285",
@@ -4707,7 +5318,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364281",
@@ -4723,7 +5334,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364280",
@@ -4741,7 +5352,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364275",
@@ -4757,7 +5368,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364273",
@@ -4776,7 +5387,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:363211",
@@ -4794,7 +5405,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364259",
@@ -4813,7 +5424,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364242",
@@ -4833,7 +5444,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364241",
@@ -4851,7 +5462,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364231",
@@ -4867,7 +5478,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364229",
@@ -4885,7 +5496,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364226",
@@ -4903,7 +5514,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364210",
@@ -4921,7 +5532,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364209",
@@ -4939,7 +5550,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364200",
@@ -4957,7 +5568,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364197",
@@ -4975,7 +5586,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364183",
@@ -4995,7 +5606,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364176",
@@ -5013,7 +5624,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364175",
@@ -5032,7 +5643,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364169",
@@ -5048,7 +5659,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364167",
@@ -5064,7 +5675,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364165",
@@ -5080,7 +5691,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364115",
@@ -5096,7 +5707,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364114",
@@ -5112,7 +5723,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:364109",
@@ -5131,7 +5742,401 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55566306",
+   "source": "사람인",
+   "title": "[어시스턴트] 법인카드 및 회계업무 지원",
+   "company": "(주)카카오페이",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55566306",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "전산회계",
+    "관리회계",
+    "기업회계",
+    "법인결산",
+    "법인세신고"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55565366",
+   "source": "사람인",
+   "title": "카카오맵 콘텐츠 마케팅 &amp; 기획_어시스턴트",
+   "company": "(주)카카오",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55565366",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "콘텐츠기획",
+    "콘텐츠마케팅",
+    "콘텐츠에디터"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55565270",
+   "source": "사람인",
+   "title": "[전환형/체험형 인턴] B2B 사업개발(SDR)",
+   "company": "(주)링글잉글리시에듀케이션서비스",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55565270",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "B2B",
+    "B2B마케팅",
+    "CRM마케팅",
+    "사업기획",
+    "사업개발"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55565020",
+   "source": "사람인",
+   "title": "[유한양행 자회사] 유한화학 채용전환형 인턴사원 / 제조관리약사 모집",
+   "company": "(주)유한화학",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55565020",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "총무",
+    "채용담당자",
+    "ER(노무관리)",
+    "평가/보상",
+    "약사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55564913",
+   "source": "사람인",
+   "title": "[사업개발팀] 2026년 대학생 인턴 모집",
+   "company": "(주)오피앤",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55564913",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "의료기기영업",
+    "사업기획",
+    "사업개발",
+    "사업관리",
+    "사업제휴"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55564794",
+   "source": "사람인",
+   "title": "고객 분석 담당자(인턴)",
+   "company": "(주)드림어스컴퍼니",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55564794",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "데이터분석가",
+    "데이터시각화",
+    "고객관리",
+    "데이터분석",
+    "CX매니저"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55564675",
+   "source": "사람인",
+   "title": "삼성꿈장학재단 체험형 인턴 모집",
+   "company": "(재)삼성꿈장학재단",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55564675",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "총무",
+    "기업홍보",
+    "사업기획",
+    "사업개발",
+    "사업관리"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55563833",
+   "source": "사람인",
+   "title": "Internship - Business Development (Robotics)",
+   "company": "인피니언테크놀로지스코리아(유)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55563833",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "시장조사",
+    "사업기획",
+    "사업개발",
+    "사업관리",
+    "사업제휴"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55562620",
+   "source": "사람인",
+   "title": "법무담당자 (인턴)",
+   "company": "엔카닷컴(주)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55562620",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "법무사",
+    "경영지원",
+    "리서치",
+    "법무"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55555549",
+   "source": "사람인",
+   "title": "[셀리맥스] 동남아 인플루언서 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55555549",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "인플루언서마케팅",
+    "SNS마케팅",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55555514",
+   "source": "사람인",
+   "title": "[셀리맥스] 미국 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55555514",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅전략",
+    "인플루언서마케팅",
+    "행사기획",
+    "SNS마케팅",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554675",
+   "source": "사람인",
+   "title": "[셀리맥스] 튀르키예 인플루언서 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554675",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "인플루언서마케팅",
+    "SNS마케팅",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554645",
+   "source": "사람인",
+   "title": "[셀리맥스] 남미 인플루언서 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554645",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "인플루언서마케팅",
+    "SNS마케팅",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554479",
+   "source": "사람인",
+   "title": "[셀리맥스] 중화권 인플루언서 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554479",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "인플루언서마케팅",
+    "SNS마케팅",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554357",
+   "source": "사람인",
+   "title": "[셀리맥스] 글로벌 아마존 MD 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554357",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "영업MD",
+    "B2C",
+    "리테일MD",
+    "브랜드MD",
+    "온라인MD"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554315",
+   "source": "사람인",
+   "title": "[셀리맥스] 중동 인플루언서 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554315",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "인플루언서마케팅",
+    "SNS마케팅",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554283",
+   "source": "사람인",
+   "title": "[셀리맥스] BX 패키지 디자이너 체험형 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554283",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "브랜드디자인",
+    "웹디자인",
+    "편집디자인",
+    "표지디자인"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
+  },
+  {
+   "uid": "saramin:55554229",
+   "source": "사람인",
+   "title": "[셀리맥스] 유럽 마케팅 인턴 채용",
+   "company": "(주)앱솔브랩",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554229",
+   "deadline": "2026-11-26",
+   "posted": "",
+   "tags": [
+    "마케팅기획",
+    "마케팅전략",
+    "인플루언서마케팅",
+    "글로벌마케팅",
+    "브랜드마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-14 17:16",
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "jobkorea:50361049",
@@ -5401,400 +6406,6 @@
    "last_seen": "2026-11-16 01:45"
   },
   {
-   "uid": "saramin:55566306",
-   "source": "사람인",
-   "title": "[어시스턴트] 법인카드 및 회계업무 지원",
-   "company": "(주)카카오페이",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55566306",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "전산회계",
-    "관리회계",
-    "기업회계",
-    "법인결산",
-    "법인세신고"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55565366",
-   "source": "사람인",
-   "title": "카카오맵 콘텐츠 마케팅 &amp; 기획_어시스턴트",
-   "company": "(주)카카오",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55565366",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "콘텐츠기획",
-    "콘텐츠마케팅",
-    "콘텐츠에디터"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55565270",
-   "source": "사람인",
-   "title": "[전환형/체험형 인턴] B2B 사업개발(SDR)",
-   "company": "(주)링글잉글리시에듀케이션서비스",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55565270",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "B2B",
-    "B2B마케팅",
-    "CRM마케팅",
-    "사업기획",
-    "사업개발"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55565020",
-   "source": "사람인",
-   "title": "[유한양행 자회사] 유한화학 채용전환형 인턴사원 / 제조관리약사 모집",
-   "company": "(주)유한화학",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55565020",
-   "deadline": "",
-   "posted": "",
-   "tags": [
-    "총무",
-    "채용담당자",
-    "ER(노무관리)",
-    "평가/보상",
-    "약사"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55564913",
-   "source": "사람인",
-   "title": "[사업개발팀] 2026년 대학생 인턴 모집",
-   "company": "(주)오피앤",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55564913",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "의료기기영업",
-    "사업기획",
-    "사업개발",
-    "사업관리",
-    "사업제휴"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55564794",
-   "source": "사람인",
-   "title": "고객 분석 담당자(인턴)",
-   "company": "(주)드림어스컴퍼니",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55564794",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "데이터분석가",
-    "데이터시각화",
-    "고객관리",
-    "데이터분석",
-    "CX매니저"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55564675",
-   "source": "사람인",
-   "title": "삼성꿈장학재단 체험형 인턴 모집",
-   "company": "(재)삼성꿈장학재단",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55564675",
-   "deadline": "",
-   "posted": "",
-   "tags": [
-    "총무",
-    "기업홍보",
-    "사업기획",
-    "사업개발",
-    "사업관리"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55563833",
-   "source": "사람인",
-   "title": "Internship - Business Development (Robotics)",
-   "company": "인피니언테크놀로지스코리아(유)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55563833",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "시장조사",
-    "사업기획",
-    "사업개발",
-    "사업관리",
-    "사업제휴"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55562620",
-   "source": "사람인",
-   "title": "법무담당자 (인턴)",
-   "company": "엔카닷컴(주)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55562620",
-   "deadline": "",
-   "posted": "",
-   "tags": [
-    "법무사",
-    "경영지원",
-    "리서치",
-    "법무"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55555549",
-   "source": "사람인",
-   "title": "[셀리맥스] 동남아 인플루언서 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55555549",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "인플루언서마케팅",
-    "SNS마케팅",
-    "글로벌마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55555514",
-   "source": "사람인",
-   "title": "[셀리맥스] 미국 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55555514",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅전략",
-    "인플루언서마케팅",
-    "행사기획",
-    "SNS마케팅",
-    "글로벌마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554675",
-   "source": "사람인",
-   "title": "[셀리맥스] 튀르키예 인플루언서 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554675",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "인플루언서마케팅",
-    "SNS마케팅",
-    "글로벌마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554645",
-   "source": "사람인",
-   "title": "[셀리맥스] 남미 인플루언서 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554645",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "인플루언서마케팅",
-    "SNS마케팅",
-    "글로벌마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554479",
-   "source": "사람인",
-   "title": "[셀리맥스] 중화권 인플루언서 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554479",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "인플루언서마케팅",
-    "SNS마케팅",
-    "글로벌마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554357",
-   "source": "사람인",
-   "title": "[셀리맥스] 글로벌 아마존 MD 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554357",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "영업MD",
-    "B2C",
-    "리테일MD",
-    "브랜드MD",
-    "온라인MD"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554315",
-   "source": "사람인",
-   "title": "[셀리맥스] 중동 인플루언서 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554315",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "인플루언서마케팅",
-    "SNS마케팅",
-    "글로벌마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554283",
-   "source": "사람인",
-   "title": "[셀리맥스] BX 패키지 디자이너 체험형 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554283",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "브랜드디자인",
-    "웹디자인",
-    "편집디자인",
-    "표지디자인"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
-   "uid": "saramin:55554229",
-   "source": "사람인",
-   "title": "[셀리맥스] 유럽 마케팅 인턴 채용",
-   "company": "(주)앱솔브랩",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55554229",
-   "deadline": "2026-11-26",
-   "posted": "",
-   "tags": [
-    "마케팅기획",
-    "마케팅전략",
-    "인플루언서마케팅",
-    "글로벌마케팅",
-    "브랜드마케팅"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-16 01:45"
-  },
-  {
    "uid": "jobkorea:50229676",
    "source": "잡코리아",
    "title": "2026년 종합전기㈜ 수시모집 요강(신입)",
@@ -5940,7 +6551,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:36",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "kofia:43116",
@@ -8767,7 +9378,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3324159",
@@ -8783,7 +9394,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3324157",
@@ -8799,7 +9410,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70708",
@@ -8815,7 +9426,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70707",
@@ -8831,7 +9442,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "inthiswork:419491",
@@ -9848,7 +10459,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3323755",
@@ -9864,7 +10475,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70705",
@@ -9882,7 +10493,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70704",
@@ -9898,7 +10509,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70703",
@@ -9914,7 +10525,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70700",
@@ -9930,7 +10541,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70699",
@@ -9946,7 +10557,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70698",
@@ -9962,7 +10573,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3323423",
@@ -9978,7 +10589,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3323287",
@@ -9994,7 +10605,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70697",
@@ -10010,7 +10621,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70694",
@@ -10026,7 +10637,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70693",
@@ -10042,7 +10653,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70692",
@@ -10058,7 +10669,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70689",
@@ -10074,7 +10685,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70688",
@@ -10090,7 +10701,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3322868",
@@ -10106,7 +10717,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3322829",
@@ -10122,7 +10733,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3322702",
@@ -10138,7 +10749,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3322680",
@@ -10154,7 +10765,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70685",
@@ -10170,7 +10781,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70684",
@@ -10186,7 +10797,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70682",
@@ -10204,7 +10815,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70681",
@@ -10220,7 +10831,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70677",
@@ -10236,7 +10847,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70673",
@@ -10252,7 +10863,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3321424",
@@ -10268,7 +10879,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3321421",
@@ -10284,7 +10895,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3321418",
@@ -10300,7 +10911,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70671",
@@ -10316,7 +10927,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70670",
@@ -10332,7 +10943,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70669",
@@ -10348,7 +10959,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70668",
@@ -10364,7 +10975,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70666",
@@ -10380,7 +10991,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70665",
@@ -10396,7 +11007,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3320765",
@@ -10413,7 +11024,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70663",
@@ -10429,7 +11040,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70662",
@@ -10445,7 +11056,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70661",
@@ -10461,7 +11072,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70658",
@@ -10477,7 +11088,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70657",
@@ -10493,7 +11104,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3319907",
@@ -10509,7 +11120,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3319744",
@@ -10525,7 +11136,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3319732",
@@ -10541,7 +11152,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70655",
@@ -10557,7 +11168,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70651",
@@ -10573,7 +11184,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70650",
@@ -10589,7 +11200,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3319292",
@@ -10605,7 +11216,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3319291",
@@ -10621,7 +11232,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70648",
@@ -10637,7 +11248,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70647",
@@ -10653,7 +11264,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70645",
@@ -10669,7 +11280,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70643",
@@ -10685,7 +11296,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70641",
@@ -10701,7 +11312,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3318155",
@@ -10717,7 +11328,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70632",
@@ -10733,7 +11344,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3317553",
@@ -10750,7 +11361,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70628",
@@ -10766,7 +11377,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70627",
@@ -10782,7 +11393,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70626",
@@ -10799,7 +11410,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3316828",
@@ -10815,7 +11426,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70618",
@@ -10863,7 +11474,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver18633550:70615",
@@ -10929,7 +11540,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:330",
@@ -10947,7 +11558,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3313756",
@@ -10963,7 +11574,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3313032",
@@ -10979,7 +11590,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3312950",
@@ -10995,7 +11606,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3312394",
@@ -11011,7 +11622,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3311829",
@@ -11027,7 +11638,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3311361",
@@ -11043,7 +11654,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3310230",
@@ -11059,7 +11670,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3310049",
@@ -11075,7 +11686,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3309343",
@@ -11091,7 +11702,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3309012",
@@ -11107,7 +11718,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3308988",
@@ -11123,7 +11734,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3308834",
@@ -11139,7 +11750,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3308252",
@@ -11155,7 +11766,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3307941",
@@ -11171,7 +11782,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3305928",
@@ -11187,7 +11798,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3305916",
@@ -11203,7 +11814,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3305906",
@@ -11219,7 +11830,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3305169",
@@ -11235,7 +11846,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver15279069:651212",
@@ -11251,7 +11862,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver15279069:651210",
@@ -11267,7 +11878,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3304118",
@@ -11283,7 +11894,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3303603",
@@ -11299,7 +11910,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3303594",
@@ -11315,7 +11926,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3302845",
@@ -11331,7 +11942,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3301823",
@@ -11348,7 +11959,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "naver23690164:3301796",
@@ -11364,7 +11975,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:328",
@@ -11382,7 +11993,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:327",
@@ -11400,7 +12011,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:326",
@@ -11418,7 +12029,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:325",
@@ -11436,7 +12047,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:324",
@@ -11454,7 +12065,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:323",
@@ -11472,7 +12083,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:322",
@@ -11490,7 +12101,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:321",
@@ -11508,7 +12119,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:320",
@@ -11526,7 +12137,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:319",
@@ -11544,7 +12155,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:318",
@@ -11562,7 +12173,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:315",
@@ -11580,7 +12191,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "careerjump:314",
@@ -11598,14 +12209,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165201",
    "source": "성균관대",
    "title": "[이오스커뮤니케이션스(주)] 홍보 마케팅 인턴 모집 (재공고)",
    "company": "이오스커뮤니케이션스(주)",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fh5ZbylK2x64GnLwjczjIXQXYkOgq3LhIGvsDqiP9S6&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=fWCKZGLYrpuN1Qy6hAbq1uvi1XQOMwuhTDD6IThRh8y&modalChk=Y",
    "deadline": "2026-11-20",
    "posted": "",
    "tags": [
@@ -11616,14 +12227,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165193",
    "source": "성균관대",
    "title": "[ST인터내셔널] 2027년 상반기 채용연계형 인턴 채용",
    "company": "ST인터내셔널",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3owJXEinOcx3Jbe4Qm7ynunF&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7Rzzrodhs9sOpgAMw9pQYr245KRJuS&modalChk=Y",
    "deadline": "2026-11-30",
    "posted": "",
    "tags": [
@@ -11635,14 +12246,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165199",
    "source": "성균관대",
    "title": "[MAX IGL] 미국 본사 Logistics 부문 인턴사원 채용 (~11/27)",
    "company": "MAX IGL",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3ow7y3xI3wlumRIFlP2iXIcx&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhpkkZqDE2SS0ZwcluPtKo2N&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -11653,14 +12264,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165194",
    "source": "성균관대",
    "title": "[모두닥] 인턴 채용공고 재게시",
    "company": "모두닥",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3oxqC6t4biuI1Ecd59V0mR62&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhmuxDTc2yVEZSebUIAuSsdX&modalChk=Y",
    "deadline": "2026-11-30",
    "posted": "",
    "tags": [
@@ -11671,14 +12282,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165185",
    "source": "성균관대",
    "title": "[교보생명] 2026 채용연계형 인턴 모집",
    "company": "교보생명보험주식회사",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3otyqpoILas9ttelRkrEWsOH&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7Rzzrodhprs1EWNzi1kDiBjmozxN1y&modalChk=Y",
    "deadline": "2026-11-22",
    "posted": "",
    "tags": [
@@ -11689,14 +12300,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165187",
    "source": "성균관대",
    "title": "[한국갤럽] 리서치 부문 RA(인턴) 채용 공고",
    "company": "한국갤럽",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3otUZmgidMEXTxThDT96WLeF&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhrDxr0X7Py6czUA3QADuJCe&modalChk=Y",
    "deadline": "2026-11-20",
    "posted": "",
    "tags": [
@@ -11707,14 +12318,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165186",
    "source": "성균관대",
    "title": "[넥슨네트웍스] 인사운영 및 HR AX/DX 업무 담당 - 채용연계형 인턴 (근무지: 판교센터)",
    "company": "넥슨네트웍스",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3ouFSxSM1f0uTERnRnR6QFyb&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhnoeUNJ7pPbKy16eoFt78iI&modalChk=Y",
    "deadline": "2026-11-22",
    "posted": "",
    "tags": [
@@ -11725,14 +12336,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165184",
    "source": "성균관대",
    "title": "[윌로그] Product Manager 인턴",
    "company": "윌로그",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3owC2DfdlcG6gt2JId76llcK&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhtHgKgYDpW72Hzoo0GERMfr&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -11743,14 +12354,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165182",
    "source": "성균관대",
    "title": "[퍼셀] 신세계그룹 코스메틱 법인(퍼셀) 마케팅팀 인턴 공고",
    "company": "주식회사 퍼셀",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3owSvNp3cGMMnkiG2dNhHKaF&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhrUYjUSGBxo3JPJA2UP0Z55&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -11761,14 +12372,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165175",
    "source": "성균관대",
    "title": "[에어퍼스트] 2027년 동계 인턴십 채용공고",
    "company": "주식회사 에어퍼스트",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3ozY3Xnxk5Be5wvlO5HZC7bi&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7Rzzrodhoy5xmNROMwuOLV61eBPFy7&modalChk=Y",
    "deadline": "2026-11-26",
    "posted": "",
    "tags": [
@@ -11779,14 +12390,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165173",
    "source": "성균관대",
    "title": "[PTKOREA] 온라인 패션몰 콘텐츠 기획 및 운영 업무 보조 인턴",
    "company": "PTKOREA",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3osolbMKUhszJGRdAujKCv2c&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7Rzzrodhpo8JDqGPC7za0GEbegCTOh&modalChk=Y",
    "deadline": "2026-11-22",
    "posted": "",
    "tags": [
@@ -11797,14 +12408,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165172",
    "source": "성균관대",
    "title": "[넷마블네오] 2026 AI 인턴십 모집 안내",
    "company": "넷마블네오(주)",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3ouDMYxOMAqwbLUbD3aTjlIc&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhpFoSzOA0l8bY0N5setQu0n&modalChk=Y",
    "deadline": "2026-11-24",
    "posted": "",
    "tags": [
@@ -11815,14 +12426,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "skku:165171",
    "source": "성균관대",
    "title": "[NICE평가정보] 정보운영그룹 솔루션본부 솔루션개발실 인턴 채용",
    "company": "NICE평가정보",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=UnP6F3AZq69VAxylbmm3oxahj67OI5aR3sGDIIeEqSA&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=pTP2KrrXGdRtC7RzzrodhsM2NS5UlI2nGgUOQO8eEQJ&modalChk=Y",
    "deadline": "2026-11-24",
    "posted": "",
    "tags": [
@@ -11833,7 +12444,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:361603",
@@ -11855,7 +12466,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:356995",
@@ -11874,7 +12485,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55412",
@@ -11892,7 +12503,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55411",
@@ -11910,7 +12521,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55406",
@@ -11928,7 +12539,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55401",
@@ -11946,7 +12557,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55400",
@@ -11964,7 +12575,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55399",
@@ -11982,7 +12593,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55396",
@@ -12000,7 +12611,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55391",
@@ -12018,7 +12629,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55388",
@@ -12036,7 +12647,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55384",
@@ -12054,7 +12665,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55374",
@@ -12072,7 +12683,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55354",
@@ -12090,7 +12701,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55351",
@@ -12108,7 +12719,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55342",
@@ -12126,7 +12737,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55338",
@@ -12144,7 +12755,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55335",
@@ -12162,7 +12773,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55332",
@@ -12180,7 +12791,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55331",
@@ -12198,7 +12809,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55330",
@@ -12216,7 +12827,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55324",
@@ -12234,7 +12845,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55322",
@@ -12252,7 +12863,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55304",
@@ -12270,7 +12881,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55297",
@@ -12288,7 +12899,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55281",
@@ -12306,7 +12917,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55280",
@@ -12324,7 +12935,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55275",
@@ -12342,7 +12953,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55263",
@@ -12360,7 +12971,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55258",
@@ -12378,7 +12989,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55246",
@@ -12396,7 +13007,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "yonsei:55217",
@@ -12414,7 +13025,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "saramin:55555155",
@@ -12435,7 +13046,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "saramin:55554659",
@@ -12457,7 +13068,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-16 01:45"
+   "last_seen": "2026-11-16 07:23"
   },
   {
    "uid": "linkareer:361835",
