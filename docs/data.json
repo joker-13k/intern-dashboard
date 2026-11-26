@@ -1,104 +1,4850 @@
 {
- "updated": "2026-11-26 10:27",
+ "updated": "2026-11-26 19:20",
  "sources": {
   "성균관대": {
    "ok": true,
    "count": 20,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "네카페·공기업/금융공기업": {
    "ok": true,
    "count": 2,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "네카페·금융권 인턴": {
    "ok": true,
    "count": 50,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "네카페·컨설팅 RA": {
    "ok": true,
    "count": 50,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "금융투자협회": {
    "ok": true,
    "count": 4,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "링커리어": {
    "ok": true,
    "count": 44,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "연세대 MBA": {
    "ok": true,
    "count": 30,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "커리어점프": {
    "ok": true,
    "count": 15,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "인디스워크": {
    "ok": true,
    "count": 50,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "잡코리아": {
    "ok": true,
    "count": 40,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "사람인": {
    "ok": true,
    "count": 20,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   },
   "직행": {
    "ok": true,
    "count": 100,
    "fails": 0,
-   "checked": "2026-11-26 10:27",
-   "last_ok": "2026-11-26 10:27",
+   "checked": "2026-11-26 19:20",
+   "last_ok": "2026-11-26 19:20",
    "error": ""
   }
  },
  "jobs": [
+  {
+   "uid": "naver23690164:3329443",
+   "source": "네카페·금융권 인턴",
+   "title": "[iM뱅크] 2027년 상반기 iM뱅크 체험형 장기인턴 모집 (~12/02)",
+   "company": "iM뱅크",
+   "url": "https://cafe.naver.com/f-e/cafes/23690164/articles/3329443",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "naver23690164:3329381",
+   "source": "네카페·금융권 인턴",
+   "title": "[한영회계법인] 전략·재무자문부문 Deal3(M&A)팀 정규전환형 인턴 채용 (~12/06)",
+   "company": "한영회계법인",
+   "url": "https://cafe.naver.com/f-e/cafes/23690164/articles/3329381",
+   "deadline": "2026-12-06",
+   "posted": "2026-11-26",
+   "tags": [],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "naver18633550:70781",
+   "source": "네카페·컨설팅 RA",
+   "title": "[PwC Strategy&] Project RA 모집 공고 (#454)",
+   "company": "PwC Strategy&",
+   "url": "https://cafe.naver.com/f-e/cafes/18633550/articles/70781",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "kofia:43305",
+   "source": "금융투자협회",
+   "title": "[케이핀자산운용] 경영관리본부 채용연계형 인턴 채용 (재공고)",
+   "company": "케이핀자산운용",
+   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43305",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "금융투자"
+   ],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424714",
+   "source": "인디스워크",
+   "title": "무인양품｜[MUJI] 무인양품 EC팀 온라인MD 채용연계형 인턴 채용 (신입)",
+   "company": "무인양품",
+   "url": "https://inthiswork.com/archives/424714",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "MD커머스"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424711",
+   "source": "인디스워크",
+   "title": "백패커｜[아이디어스] 추천 개발 엔지니어 (주니어)",
+   "company": "백패커",
+   "url": "https://inthiswork.com/archives/424711",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424708",
+   "source": "인디스워크",
+   "title": "네이버웹툰｜Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
+   "company": "네이버웹툰",
+   "url": "https://inthiswork.com/archives/424708",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "해외사업"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424699",
+   "source": "인디스워크",
+   "title": "이연제약｜본사_신입경력직원채용_261201",
+   "company": "이연제약",
+   "url": "https://inthiswork.com/archives/424699",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "화학재료",
+    "제약바이오"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424696",
+   "source": "인디스워크",
+   "title": "주식회사 노타｜[Infra] Admin Assistant (전환형)",
+   "company": "주식회사 노타",
+   "url": "https://inthiswork.com/archives/424696",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424691",
+   "source": "인디스워크",
+   "title": "팀모먼트｜남미 B2B 영업 지원 (전환형 인턴)",
+   "company": "팀모먼트",
+   "url": "https://inthiswork.com/archives/424691",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "스타트업",
+    "해외사업",
+    "영업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424686",
+   "source": "인디스워크",
+   "title": "서울우유｜2027년 대졸 신입직원 모집",
+   "company": "서울우유",
+   "url": "https://inthiswork.com/archives/424686",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "공채",
+    "기계",
+    "IT개발",
+    "식품",
+    "영업",
+    "화학재료",
+    "환경안전",
+    "전기전자"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424683",
+   "source": "인디스워크",
+   "title": "보령｜영업직(MR)_의원_서울(성북)",
+   "company": "보령",
+   "url": "https://inthiswork.com/archives/424683",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "영업",
+    "제약바이오"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424680",
+   "source": "인디스워크",
+   "title": "보령｜[생산품질부문] 예산캠퍼스 미생물 품질관리 채용",
+   "company": "보령",
+   "url": "https://inthiswork.com/archives/424680",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "화학재료",
+    "제약바이오"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424675",
+   "source": "인디스워크",
+   "title": "BIGC｜[정규직] IP 기획 MD",
+   "company": "BIGC",
+   "url": "https://inthiswork.com/archives/424675",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "스타트업",
+    "채용시마감",
+    "MD커머스"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424663",
+   "source": "인디스워크",
+   "title": "2026년 DY POWER 하반기 수시채용(HR, 제품개발)",
+   "company": "",
+   "url": "https://inthiswork.com/archives/424663",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "공채",
+    "기계",
+    "HR인사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424658",
+   "source": "인디스워크",
+   "title": "2026년 DY 하반기 수시채용(IT, 자금)",
+   "company": "",
+   "url": "https://inthiswork.com/archives/424658",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "공채",
+    "IT개발",
+    "재무회계"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424652",
+   "source": "인디스워크",
+   "title": "JW｜2027년 1차 신입/경력 채용",
+   "company": "JW",
+   "url": "https://inthiswork.com/archives/424652",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "데이터분석",
+    "마케팅홍보",
+    "공채",
+    "IT개발",
+    "영업",
+    "화학재료",
+    "제약바이오",
+    "MD커머스"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424649",
+   "source": "인디스워크",
+   "title": "케이뱅크｜금융 후선업무 담당자 (신입/경력)",
+   "company": "케이뱅크",
+   "url": "https://inthiswork.com/archives/424649",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "금융투자",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424646",
+   "source": "인디스워크",
+   "title": "EY한영｜컨설팅부문 Technology Transformation팀 인턴",
+   "company": "EY한영",
+   "url": "https://inthiswork.com/archives/424646",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "데이터분석",
+    "리서치컨설팅",
+    "IT개발",
+    "외국계"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424640",
+   "source": "인디스워크",
+   "title": "KMAC 한국능률협회컨설팅｜CX 컨설팅(민간기업) 프로젝트 수행지원(PA) 모집",
+   "company": "KMAC 한국능률협회컨설팅",
+   "url": "https://inthiswork.com/archives/424640",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "CSCX",
+    "데이터분석",
+    "리서치컨설팅"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424635",
+   "source": "인디스워크",
+   "title": "케이뱅크｜마케팅 배너 기획 및 CRM 운영자 (신입/경력)",
+   "company": "케이뱅크",
+   "url": "https://inthiswork.com/archives/424635",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "마케팅홍보",
+    "금융투자",
+    "스타트업"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424628",
+   "source": "인디스워크",
+   "title": "케이뱅크｜여신사기 조사 담당자 (신입/경력)",
+   "company": "케이뱅크",
+   "url": "https://inthiswork.com/archives/424628",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "금융투자",
+    "스타트업"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424624",
+   "source": "인디스워크",
+   "title": "영화진흥위원회｜2027년 대체인력(일반사무) 공개채용",
+   "company": "영화진흥위원회",
+   "url": "https://inthiswork.com/archives/424624",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "공공기관",
+    "사무지원행정"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424621",
+   "source": "인디스워크",
+   "title": "광동제약｜디자인혁신부문 디자인2팀 웹디자인 신입 및 경력직원 모집(계약직)",
+   "company": "광동제약",
+   "url": "https://inthiswork.com/archives/424621",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "디자인"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424609",
+   "source": "인디스워크",
+   "title": "VAT Group｜Field Application Engineer",
+   "company": "VAT Group",
+   "url": "https://inthiswork.com/archives/424609",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "반도체",
+    "외국계",
+    "전기전자",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424606",
+   "source": "인디스워크",
+   "title": "Entegris｜Engineer I, Field Services",
+   "company": "Entegris",
+   "url": "https://inthiswork.com/archives/424606",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "반도체",
+    "기계",
+    "외국계",
+    "전기전자",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424601",
+   "source": "인디스워크",
+   "title": "KLA｜KLAS EBI Product Installation Engineer (신입가능)",
+   "company": "KLA",
+   "url": "https://inthiswork.com/archives/424601",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "외국계",
+    "전기전자",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424598",
+   "source": "인디스워크",
+   "title": "HSBC｜Research Admin and Corporate Access",
+   "company": "HSBC",
+   "url": "https://inthiswork.com/archives/424598",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "리서치컨설팅",
+    "금융투자",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424595",
+   "source": "인디스워크",
+   "title": "KLA｜KLAS LS Product Installation Engineer (신입가능)",
+   "company": "KLA",
+   "url": "https://inthiswork.com/archives/424595",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "외국계",
+    "전기전자",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424592",
+   "source": "인디스워크",
+   "title": "LVMH Beauty｜RAQA Assistant (1YR Contract)",
+   "company": "LVMH Beauty",
+   "url": "https://inthiswork.com/archives/424592",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "화학재료",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424589",
+   "source": "인디스워크",
+   "title": "Dell Technologies｜Dell Technologies Presales Academy – Inside Presales Solution Architect",
+   "company": "Dell Technologies",
+   "url": "https://inthiswork.com/archives/424589",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "영업",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424586",
+   "source": "인디스워크",
+   "title": "BSI｜Training OD Content Localization Specialist",
+   "company": "BSI",
+   "url": "https://inthiswork.com/archives/424586",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "교육업",
+    "HR인사",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424583",
+   "source": "인디스워크",
+   "title": "Guidepoint｜Strategic Research Associate",
+   "company": "Guidepoint",
+   "url": "https://inthiswork.com/archives/424583",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "리서치컨설팅",
+    "채용시마감"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424577",
+   "source": "인디스워크",
+   "title": "LVIS Corporation｜Backend Software Engineer",
+   "company": "LVIS Corporation",
+   "url": "https://inthiswork.com/archives/424577",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424573",
+   "source": "인디스워크",
+   "title": "Smith+Nephew｜Marketing Specialist (Fixed term)",
+   "company": "Smith+Nephew",
+   "url": "https://inthiswork.com/archives/424573",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "마케팅홍보",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424569",
+   "source": "인디스워크",
+   "title": "To-Day｜Product Engineer (Backend) – 2027",
+   "company": "To-Day",
+   "url": "https://inthiswork.com/archives/424569",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424566",
+   "source": "인디스워크",
+   "title": "틱톡｜Category Operations Project Intern (TikTok Commerce) – 2026 Start (BS/MS)",
+   "company": "틱톡",
+   "url": "https://inthiswork.com/archives/424566",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "마케팅홍보",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424561",
+   "source": "인디스워크",
+   "title": "Schneider Electric｜Service Order & Contract Administrator Intern",
+   "company": "Schneider Electric",
+   "url": "https://inthiswork.com/archives/424561",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "물류무역구매",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424558",
+   "source": "인디스워크",
+   "title": "MUFG｜Global Corporate Banking – Intern",
+   "company": "MUFG",
+   "url": "https://inthiswork.com/archives/424558",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "금융투자",
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424553",
+   "source": "인디스워크",
+   "title": "Schneider Electric｜Services Planner Intern",
+   "company": "Schneider Electric",
+   "url": "https://inthiswork.com/archives/424553",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "외국계",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424550",
+   "source": "인디스워크",
+   "title": "크래프톤｜[AI Research Div.] Data Project Manager (경력무관 / 인턴)",
+   "company": "크래프톤",
+   "url": "https://inthiswork.com/archives/424550",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "데이터분석",
+    "게임",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424546",
+   "source": "인디스워크",
+   "title": "린데코리아｜제조운영부문 Project Engineering Team Instrument Engineer 정규직 채용",
+   "company": "린데코리아",
+   "url": "https://inthiswork.com/archives/424546",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "외국계",
+    "전기전자"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424543",
+   "source": "인디스워크",
+   "title": "카카오뱅크｜교육/문화 어시스턴트 (체험형 인턴)",
+   "company": "카카오뱅크",
+   "url": "https://inthiswork.com/archives/424543",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "HR인사"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424540",
+   "source": "인디스워크",
+   "title": "카카오뱅크｜문화 콘텐츠 어시스턴트 (체험형 인턴)",
+   "company": "카카오뱅크",
+   "url": "https://inthiswork.com/archives/424540",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "대기업",
+    "HR인사"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424537",
+   "source": "인디스워크",
+   "title": "토스｜IT Assistant (단기계약직)",
+   "company": "토스",
+   "url": "https://inthiswork.com/archives/424537",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424534",
+   "source": "인디스워크",
+   "title": "KREAM｜영업 기획 체험형 인턴 모집",
+   "company": "KREAM",
+   "url": "https://inthiswork.com/archives/424534",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "스타트업",
+    "영업"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424531",
+   "source": "인디스워크",
+   "title": "티오더｜[t’order Inc.] 영업지원 (BO) 담당자 (경력 무관)",
+   "company": "티오더",
+   "url": "https://inthiswork.com/archives/424531",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "스타트업",
+    "영업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424524",
+   "source": "인디스워크",
+   "title": "위시컴퍼니｜[AMG] 미국 마케팅 전환형 인턴",
+   "company": "위시컴퍼니",
+   "url": "https://inthiswork.com/archives/424524",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "마케팅홍보",
+    "스타트업",
+    "해외사업"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424521",
+   "source": "인디스워크",
+   "title": "뷰티셀렉션｜[바이오던스] IP Support Manager (1년 계약직)",
+   "company": "뷰티셀렉션",
+   "url": "https://inthiswork.com/archives/424521",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424518",
+   "source": "인디스워크",
+   "title": "업스테이지｜[전문연구요원 신규편입 & 전직] AI Research Engineer – LLM Evaluation & Analysis",
+   "company": "업스테이지",
+   "url": "https://inthiswork.com/archives/424518",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "IT개발",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424515",
+   "source": "인디스워크",
+   "title": "비플랜트｜[브론테] 상품기획AMD 인턴",
+   "company": "비플랜트",
+   "url": "https://inthiswork.com/archives/424515",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "채용시마감",
+    "MD커머스"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424506",
+   "source": "인디스워크",
+   "title": "한솔제지｜신입/경력사원 채용 (CS 기술지원)",
+   "company": "한솔제지",
+   "url": "https://inthiswork.com/archives/424506",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "CSCX"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424503",
+   "source": "인디스워크",
+   "title": "팀스파르타｜콘텐츠 마케터 채용연계형 인턴 (Content Marketer)",
+   "company": "팀스파르타",
+   "url": "https://inthiswork.com/archives/424503",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "마케팅홍보",
+    "교육업",
+    "스타트업",
+    "채용시마감"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "inthiswork:424498",
+   "source": "인디스워크",
+   "title": "넥스트그라운드｜앱/웹 서비스 기획 (PM) (전환형 인턴)",
+   "company": "넥스트그라운드",
+   "url": "https://inthiswork.com/archives/424498",
+   "deadline": "",
+   "posted": "2026-11-26",
+   "tags": [
+    "스타트업",
+    "채용시마감",
+    "PM서비스기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:05307556-5b1c-4a85-b3d4-4ee7715b8487",
+   "source": "직행",
+   "title": "[크림(KREAM)] Global팀 체험형 인턴 모집",
+   "company": "KREAM",
+   "url": "https://zighang.com/recruitment/05307556-5b1c-4a85-b3d4-4ee7715b8487",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "사업·전략기획",
+    "이커머스",
+    "경쟁사분석",
+    "인플루언서"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:69c18777-417f-4e3c-8351-f044b7d02363",
+   "source": "직행",
+   "title": "[채용전환형/월 500만원] 모두닥 Problem Solver - Product Marketer 인턴",
+   "company": "모두닥",
+   "url": "https://zighang.com/recruitment/69c18777-417f-4e3c-8351-f044b7d02363",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "마케팅·광고·홍보",
+    "콘텐츠마케팅",
+    "퍼포먼스마케팅",
+    "마케팅기획·전략",
+    "콘텐츠제작",
+    "헬스케어",
+    "인플루언서"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:83f427bd-e253-44e1-b313-81a0ad24188f",
+   "source": "직행",
+   "title": "[휴학생 우대/월 350만원] 모두닥 비즈니스 실전 체험 인턴 (세일즈·마케팅)",
+   "company": "모두닥",
+   "url": "https://zighang.com/recruitment/83f427bd-e253-44e1-b313-81a0ad24188f",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "영업",
+    "영업관리·지원",
+    "체험인턴",
+    "세일즈",
+    "마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:10bda66c-309a-4120-8d67-8ea3178c2533",
+   "source": "직행",
+   "title": "IT Infra 수시모집(인턴, 경력)",
+   "company": "PSK",
+   "url": "https://zighang.com/recruitment/10bda66c-309a-4120-8d67-8ea3178c2533",
+   "deadline": "2026-12-06",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "IT·개발",
+    "시스템·네트워크",
+    "반도체",
+    "IT인프라",
+    "네트워크관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:08406929-8879-47f2-b528-2f8491dd0eeb",
+   "source": "직행",
+   "title": "[채용전환형/월 500만원] 모두닥 Problem Solver (Engineering Focused) 인턴",
+   "company": "모두닥",
+   "url": "https://zighang.com/recruitment/08406929-8879-47f2-b528-2f8491dd0eeb",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "IT·개발",
+    "웹풀스택",
+    "스톡옵션",
+    "MVP개발",
+    "헬스케어"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2eacad89-7ad8-4b79-89aa-c93712ecf37c",
+   "source": "직행",
+   "title": "Engineer Student Intern",
+   "company": "아나로그디바이스",
+   "url": "https://zighang.com/recruitment/2eacad89-7ad8-4b79-89aa-c93712ecf37c",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "기타엔지니어링·RND",
+    "반도체",
+    "엔지니어",
+    "인턴십"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:aa50dd70-494e-44cc-9582-5019d98b0e8f",
+   "source": "직행",
+   "title": "[크림(KREAM)] 영업 기획 체험형 인턴 모집",
+   "company": "KREAM",
+   "url": "https://zighang.com/recruitment/aa50dd70-494e-44cc-9582-5019d98b0e8f",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "상품기획·MD",
+    "온라인MD",
+    "기획전운영",
+    "패션",
+    "시장조사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:4dabed7b-4913-447a-bbee-df409c341dae",
+   "source": "직행",
+   "title": "[Infra] Admin Assistant (전환형)",
+   "company": "노타",
+   "url": "https://zighang.com/recruitment/4dabed7b-4913-447a-bbee-df409c341dae",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "인사·노무·HRD·총무",
+    "총무·비서",
+    "AI",
+    "자산관리",
+    "전환형인턴"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:34d10ea5-b7bd-46ad-9c93-23ed4da86b68",
+   "source": "직행",
+   "title": "Intern Bachelors Cyber Sec",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/34d10ea5-b7bd-46ad-9c93-23ed4da86b68",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "정보보호·보안",
+    "인턴",
+    "사이버보안"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:6cb39903-6893-402b-9cc3-9c16a3e06ff0",
+   "source": "직행",
+   "title": "Intern Bachelors Cyber Sec",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/6cb39903-6893-402b-9cc3-9c16a3e06ff0",
+   "deadline": "2026-11-27",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "정보보호·보안",
+    "사이버보안",
+    "취약점스캔",
+    "위험평가"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:8fc77e4e-dab7-4168-a181-aae56d882784",
+   "source": "직행",
+   "title": "[인턴] 앱/웹 서비스 기획 (PM)",
+   "company": "넥스트그라운드",
+   "url": "https://zighang.com/recruitment/8fc77e4e-dab7-4168-a181-aae56d882784",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "기획·전략·경영",
+    "PM·PO",
+    "서비스·상품기획",
+    "서비스개선",
+    "화면설계",
+    "부동산"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:24d2ab5a-49fc-4bb9-a365-10848f0d6000",
+   "source": "직행",
+   "title": "채용형 인턴 채용공고(주택관리공단 강원지사)",
+   "company": "주택관리공단",
+   "url": "https://zighang.com/recruitment/24d2ab5a-49fc-4bb9-a365-10848f0d6000",
+   "deadline": "2026-12-10",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "건설·건축",
+    "기계·전기·소방·설비",
+    "공공기관",
+    "공동주택",
+    "채용형인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:3c24c8fc-d02f-4bf3-8b41-6ace66dc2d46",
+   "source": "직행",
+   "title": "2026년 제4차 채용",
+   "company": "대한장애인체육회",
+   "url": "https://zighang.com/recruitment/3c24c8fc-d02f-4bf3-8b41-6ace66dc2d46",
+   "deadline": "2026-12-08",
+   "posted": "2026-11-26",
+   "tags": [
+    "정규직",
+    "체험형인턴",
+    "계약직",
+    "생산·기능",
+    "공공·복지",
+    "시설관리",
+    "행정·사무·운영",
+    "설비",
+    "국제대회",
+    "체육행정",
+    "시설관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:3bc68afa-739d-4ab9-bf06-839c3ff054f7",
+   "source": "직행",
+   "title": "[한국환경연구원] 2026년 제17차 인턴직 채용공고",
+   "company": "한국환경연구원",
+   "url": "https://zighang.com/recruitment/3bc68afa-739d-4ab9-bf06-839c3ff054f7",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "체험형인턴",
+    "공공기관",
+    "행정직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:e14e88ca-33a9-48f3-8c13-00292f51ae71",
+   "source": "직행",
+   "title": "Intern Bachelors Cyber Sec",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/e14e88ca-33a9-48f3-8c13-00292f51ae71",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "정보보호·보안",
+    "인턴",
+    "사이버보안"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:de5f70cd-9bc7-48da-b43a-f9dd917dd8e0",
+   "source": "직행",
+   "title": "[인턴] Marketing (6mth)",
+   "company": "카본식스코리아",
+   "url": "https://zighang.com/recruitment/de5f70cd-9bc7-48da-b43a-f9dd917dd8e0",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "마케팅·광고·홍보",
+    "콘텐츠마케팅",
+    "콘텐츠제작",
+    "인턴",
+    "피지컬AI"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:f2fc70fa-1b77-4b0c-b201-2920d3bc8dd3",
+   "source": "직행",
+   "title": "[ABInbev Korea 오비맥주] 청주공장 양조팀 기술직 정규직전환형 인턴 채용",
+   "company": "오비맥주",
+   "url": "https://zighang.com/recruitment/f2fc70fa-1b77-4b0c-b201-2920d3bc8dd3",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "생산",
+    "발효공정",
+    "맥주양조",
+    "명절상여"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:568a8896-8f80-45b4-a7df-cd6dd5452955",
+   "source": "직행",
+   "title": "화수분AI UI/UX 엔지니어 인턴 채용",
+   "company": "화수분에이아이",
+   "url": "https://zighang.com/recruitment/568a8896-8f80-45b4-a7df-cd6dd5452955",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "디자인",
+    "UXUI·프로덕트",
+    "디자인시스템",
+    "인턴",
+    "핀테크"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:e4629bcd-be38-4f8f-a8a5-c1566bf4e22b",
+   "source": "직행",
+   "title": "[비즈테크아이] 구매 담당자 모집 (신입/경력)",
+   "company": "비즈테크아이",
+   "url": "https://zighang.com/recruitment/e4629bcd-be38-4f8f-a8a5-c1566bf4e22b",
+   "deadline": "2027-01-01",
+   "posted": "2026-11-26",
+   "tags": [
+    "정규직",
+    "전환형인턴",
+    "무역·물류·유통",
+    "구매·조달",
+    "전환형인턴",
+    "구매",
+    "신입"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:5787e8e9-22bb-42f4-b0bd-694a232600f0",
+   "source": "직행",
+   "title": "[브론테] 상품기획AMD 인턴",
+   "company": "비플랜트",
+   "url": "https://zighang.com/recruitment/5787e8e9-22bb-42f4-b0bd-694a232600f0",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "상품기획·MD",
+    "온라인MD",
+    "브랜드소싱",
+    "뷰티",
+    "부분원격"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:bef3405d-2239-462f-a072-527732624d09",
+   "source": "직행",
+   "title": "Stage Contrôle de gestion f/h",
+   "company": "지멘스",
+   "url": "https://zighang.com/recruitment/bef3405d-2239-462f-a072-527732624d09",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "회계·세무·재무",
+    "재무",
+    "원가관리",
+    "철도",
+    "재택가능"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:869751ba-86a5-47ad-a9fa-cad2f3e762fe",
+   "source": "직행",
+   "title": "[Infra] Admin Assistant (전환형)",
+   "company": "노타",
+   "url": "https://zighang.com/recruitment/869751ba-86a5-47ad-a9fa-cad2f3e762fe",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "IT·개발",
+    "시스템·네트워크",
+    "IT자산관리",
+    "AI",
+    "전환형인턴"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:155929f4-efbe-47db-be55-995cc67e4229",
+   "source": "직행",
+   "title": "[ABInbev Korea 오비맥주] 청주공장 제품팀 기술직 정규직전환형 인턴 채용",
+   "company": "오비맥주",
+   "url": "https://zighang.com/recruitment/155929f4-efbe-47db-be55-995cc67e4229",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "생산",
+    "설비",
+    "맥주",
+    "설비운영",
+    "교대근무"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:0cd4cbe6-74f1-49c5-823f-3eece4ebd8eb",
+   "source": "직행",
+   "title": "· 광고기획 AE 인턴십 채용",
+   "company": "디자이어드",
+   "url": "https://zighang.com/recruitment/0cd4cbe6-74f1-49c5-823f-3eece4ebd8eb",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "광고기획·AE",
+    "광고회사",
+    "광고캠페인",
+    "브랜드전략"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:202be92d-426f-4556-beaf-71bde91128ef",
+   "source": "직행",
+   "title": "Internship - IT",
+   "company": "인피니언테크놀로지스코리아",
+   "url": "https://zighang.com/recruitment/202be92d-426f-4556-beaf-71bde91128ef",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "AI·데이터",
+    "데이터분석가",
+    "반도체",
+    "데이터검증",
+    "대시보드"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:0c151e0d-f270-4196-aa4b-cb203f4c9c80",
+   "source": "직행",
+   "title": "화수분AI 프로덕트 엔지니어 인턴 채용",
+   "company": "화수분에이아이",
+   "url": "https://zighang.com/recruitment/0c151e0d-f270-4196-aa4b-cb203f4c9c80",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "IT·개발",
+    "서버·백엔드",
+    "백엔드",
+    "핀테크",
+    "리서치자동화"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:3ce44b3f-320e-432a-8b2a-99b4a31241db",
+   "source": "직행",
+   "title": "[쇼포트] Product Engineer Internship (AI & Data)",
+   "company": "레브잇",
+   "url": "https://zighang.com/recruitment/3ce44b3f-320e-432a-8b2a-99b4a31241db",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "IT·개발",
+    "서버·백엔드",
+    "인턴",
+    "커머스",
+    "상품속성추출"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:cc84340b-f4a0-42ea-881f-92a5faf70df0",
+   "source": "직행",
+   "title": "2026년도 한아청 상담실장(강남소재, 주4일) 및 인턴(주 2일) 채용공고",
+   "company": "한국아동청소년심리상담센터",
+   "url": "https://zighang.com/recruitment/cc84340b-f4a0-42ea-881f-92a5faf70df0",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "계약직",
+    "공공·복지",
+    "상담·심리",
+    "재택근무",
+    "아동청소년",
+    "집단상담"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:65468f22-b421-4e22-9dd3-e366460d89bd",
+   "source": "직행",
+   "title": "Intern (Bachelor's)",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/65468f22-b421-4e22-9dd3-e366460d89bd",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "기타기획·전략·경영",
+    "인턴",
+    "학사"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2c28eae1-4757-44c5-ab66-cc60b9af6693",
+   "source": "직행",
+   "title": "장애인 청년 인턴(체험형) 채용",
+   "company": "경기테크노파크",
+   "url": "https://zighang.com/recruitment/2c28eae1-4757-44c5-ab66-cc60b9af6693",
+   "deadline": "2026-12-04",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "체험형인턴",
+    "공공기관",
+    "사무보조"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:579b4327-f40f-4ca8-8f64-4a4ecb10f72e",
+   "source": "직행",
+   "title": "[뉴욕] 프렌치 파인 다이닝 레스토랑 – 경력직 셰프 인턴 채용",
+   "company": "아이씨엔코리아",
+   "url": "https://zighang.com/recruitment/579b4327-f40f-4ca8-8f64-4a4ecb10f72e",
+   "deadline": "2026-12-23",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "식음료",
+    "주방조리",
+    "제철요리",
+    "파인다이닝",
+    "셰프"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:dd45650d-5553-469c-9f53-85a13cda26db",
+   "source": "직행",
+   "title": "그로스 프로덕트 오너(PO) 인턴 채용",
+   "company": "와디즈",
+   "url": "https://zighang.com/recruitment/dd45650d-5553-469c-9f53-85a13cda26db",
+   "deadline": "2026-12-07",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "PM·PO",
+    "펀딩",
+    "AB테스트",
+    "CRM시나리오"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:da48d22b-8c87-4f60-96e2-36b41b37bde4",
+   "source": "직행",
+   "title": "[MUJI] 무인양품 EC팀 온라인MD 채용연계형 인턴 채용 (신입)",
+   "company": "무인양품",
+   "url": "https://zighang.com/recruitment/da48d22b-8c87-4f60-96e2-36b41b37bde4",
+   "deadline": "2026-12-10",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "상품기획·MD",
+    "온라인MD",
+    "상품등록",
+    "이커머스",
+    "유연근무"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2f6ad992-4b57-459b-9a32-21e76115ef7f",
+   "source": "직행",
+   "title": "E & M Intern",
+   "company": "IFF",
+   "url": "https://zighang.com/recruitment/2f6ad992-4b57-459b-9a32-21e76115ef7f",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "기타엔지니어링·RND",
+    "인턴",
+    "엔지니어링"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:850222cd-b57f-443e-baf5-b9a8698399e7",
+   "source": "직행",
+   "title": "Intern (Bach) Sales Ops",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/850222cd-b57f-443e-baf5-b9a8698399e7",
+   "deadline": "2026-11-27",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "콘텐츠마케팅",
+    "홍보·PR",
+    "전시·행사마케팅",
+    "행사기획",
+    "보도자료",
+    "산업자동화"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:76e80b99-c766-46fd-975d-434526f99bd1",
+   "source": "직행",
+   "title": "[팀모먼트] 남미 B2B 영업 지원 (전환형 인턴)",
+   "company": "팀모먼트",
+   "url": "https://zighang.com/recruitment/76e80b99-c766-46fd-975d-434526f99bd1",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "영업",
+    "해외영업",
+    "뷰티",
+    "남미영업",
+    "식대지원"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:47327dc0-721c-4ef6-8ea1-dddb7f885ce6",
+   "source": "직행",
+   "title": "Internship - Talent & HR Data Strategy (F/M)",
+   "company": "티파니앤코",
+   "url": "https://zighang.com/recruitment/47327dc0-721c-4ef6-8ea1-dddb7f885ce6",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "인사·노무·HRD·총무",
+    "인사기획",
+    "HR데이터",
+    "인턴",
+    "럭셔리"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:9d0bb888-ef1b-43df-852f-bfc8f4900780",
+   "source": "직행",
+   "title": "2027 Summer Intern - Molecular Lab Research and Early Development (MLRED), Oncology and Genomics Molecular Personalize Healthcare Solutions (O&G mPHCS) Subchapter",
+   "company": "로슈",
+   "url": "https://zighang.com/recruitment/9d0bb888-ef1b-43df-852f-bfc8f4900780",
+   "deadline": "2026-12-09",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "바이오·제약",
+    "출근",
+    "분자진단",
+    "바이오"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:59bfe72f-6d6a-44d4-b703-b6ed7df156a3",
+   "source": "직행",
+   "title": "Intern Bachelors Field Svc Eng",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/59bfe72f-6d6a-44d4-b703-b6ed7df156a3",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "기타엔지니어링·RND",
+    "글로벌기업",
+    "필드서비스",
+    "인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:25aa12c6-6b9e-4df8-9012-3b2d5f363780",
+   "source": "직행",
+   "title": "Student Assistent Radionuclide Productie",
+   "company": "GE헬스케어",
+   "url": "https://zighang.com/recruitment/25aa12c6-6b9e-4df8-9012-3b2d5f363780",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "생산·기능",
+    "생산",
+    "주말근무",
+    "사이클로트론",
+    "방사성의약품"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:7a36081a-b0a8-4e42-be74-09058dbfe7f0",
+   "source": "직행",
+   "title": "Internship: Software Connectivity",
+   "company": "필립스",
+   "url": "https://zighang.com/recruitment/7a36081a-b0a8-4e42-be74-09058dbfe7f0",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "기타IT·개발",
+    "하이브리드",
+    "임베디드",
+    "개념검증"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2e0471ab-303c-42ec-9bdb-94c63025a5bd",
+   "source": "직행",
+   "title": "Buying Intern - stage extracurriculare",
+   "company": "Publicis Groupe",
+   "url": "https://zighang.com/recruitment/2e0471ab-303c-42ec-9bdb-94c63025a5bd",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "기타마케팅",
+    "인턴",
+    "광고",
+    "미디어구매"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:495e61c9-0c54-4eb4-b1d1-a5e21118326e",
+   "source": "직행",
+   "title": "Alternance – Assistant Directeur Artistique – F/H/NB",
+   "company": "Publicis Groupe",
+   "url": "https://zighang.com/recruitment/495e61c9-0c54-4eb4-b1d1-a5e21118326e",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "디자인",
+    "광고·콘텐츠",
+    "광고캠페인",
+    "럭셔리",
+    "재택가능"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:09e035ad-bbff-4831-9f25-a509636434d3",
+   "source": "직행",
+   "title": "Intern of equipment",
+   "company": "필립스",
+   "url": "https://zighang.com/recruitment/09e035ad-bbff-4831-9f25-a509636434d3",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "생산·기능",
+    "설비",
+    "인턴",
+    "헬스테크",
+    "설비점검"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:70703071-7ccf-4f81-8a64-4760310482e9",
+   "source": "직행",
+   "title": "[ABInbev Korea 오비맥주] 청주공장 물류팀 기술직 정규직전환형 인턴 채용",
+   "company": "오비맥주",
+   "url": "https://zighang.com/recruitment/70703071-7ccf-4f81-8a64-4760310482e9",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "무역·물류·유통",
+    "입출고·포장",
+    "맥주",
+    "교대근무",
+    "자동화물류"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:5980a8ce-8631-4707-8488-0381516e8496",
+   "source": "직행",
+   "title": "Intern - PO Handling",
+   "company": "LG에릭슨",
+   "url": "https://zighang.com/recruitment/5980a8ce-8631-4707-8488-0381516e8496",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "무역·물류·유통",
+    "구매·조달",
+    "송장처리",
+    "공급망",
+    "구매발주"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:02ff5f87-5aab-41bc-8ebf-0e04ba6fdea3",
+   "source": "직행",
+   "title": "[ABInbev Korea 오비맥주] 청주공장 기술지원팀 기술직 정규직전환형 인턴 채용",
+   "company": "오비맥주",
+   "url": "https://zighang.com/recruitment/02ff5f87-5aab-41bc-8ebf-0e04ba6fdea3",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "설비",
+    "폐수처리",
+    "제조",
+    "명절상여"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:8e2a1150-2c5d-4082-b46b-dde215d2c963",
+   "source": "직행",
+   "title": "[Infra] Admin Assistant (전환형)",
+   "company": "노타",
+   "url": "https://zighang.com/recruitment/8e2a1150-2c5d-4082-b46b-dde215d2c963",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "인사·노무·HRD·총무",
+    "총무·비서",
+    "IT인프라",
+    "자산관리",
+    "SaaS라이선스"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:33280092-91c8-46f9-884f-0e4ffa526472",
+   "source": "직행",
+   "title": "(청년인턴) 사무보조 채용",
+   "company": "고그로스",
+   "url": "https://zighang.com/recruitment/33280092-91c8-46f9-884f-0e4ffa526472",
+   "deadline": "2026-12-25",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "경영지원",
+    "즉시출근",
+    "전산입력",
+    "렌터카"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:b8159781-7ea7-4e0d-a8c2-eda5cf44d0fa",
+   "source": "직행",
+   "title": "[한국베링거인겔하임동물약품] Swine & Cattle Marketing Assistant Intern",
+   "company": "한국베링거인겔하임",
+   "url": "https://zighang.com/recruitment/b8159781-7ea7-4e0d-a8c2-eda5cf44d0fa",
+   "deadline": "2026-12-09",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "전시·행사마케팅",
+    "인턴",
+    "동물약품",
+    "행사운영"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:824647d5-b52c-48fe-9ddf-6f72e35ee241",
+   "source": "직행",
+   "title": "[일소] 영미권 인플루언서 마케팅 (인턴)",
+   "company": "미립",
+   "url": "https://zighang.com/recruitment/824647d5-b52c-48fe-9ddf-6f72e35ee241",
+   "deadline": "2026-12-26",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "글로벌마케팅",
+    "인턴",
+    "화장품",
+    "인플루언서"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:94e726b1-fe67-4c13-8a00-b735fa134a96",
+   "source": "직행",
+   "title": "[아이디네트웍스] 영미권 인플루언서 마케터 인턴 채용",
+   "company": "아이디네트웍스",
+   "url": "https://zighang.com/recruitment/94e726b1-fe67-4c13-8a00-b735fa134a96",
+   "deadline": "2026-12-26",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "SNS마케팅",
+    "인턴",
+    "뷰티",
+    "인플루언서"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:30d5d5d4-8ee2-4211-8380-8440b55a6d7f",
+   "source": "직행",
+   "title": "[외국계광고] dentsu그룹 AE기획 체험형 인턴 채용 (산휴대체)",
+   "company": "덴츠코리아",
+   "url": "https://zighang.com/recruitment/30d5d5d4-8ee2-4211-8380-8440b55a6d7f",
+   "deadline": "2026-12-26",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "광고기획·AE",
+    "광고대행",
+    "캠페인기획",
+    "시차출퇴근"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2576733c-ecff-4502-81be-ee13ce7f7053",
+   "source": "직행",
+   "title": "(4차)전남광주통합특별시 사회연대경제 청년 일경험사업 시범사업 참여청년",
+   "company": "사단법인 상생나무",
+   "url": "https://zighang.com/recruitment/2576733c-ecff-4502-81be-ee13ce7f7053",
+   "deadline": "2026-12-26",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "기타공공·복지",
+    "사회적경제",
+    "일경험",
+    "계약직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:f2e01a69-a41e-4e78-aad1-1f823eef042f",
+   "source": "직행",
+   "title": "[AI Research Div.] Research Scientist Intern - 독자 AI 파운데이션 모델",
+   "company": "크래프톤",
+   "url": "https://zighang.com/recruitment/f2e01a69-a41e-4e78-aad1-1f823eef042f",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "AI·데이터",
+    "LLM",
+    "LLM사전학습",
+    "인턴",
+    "멀티모달"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:f64e66d1-5a74-4998-a9d6-cc397f3ca0f6",
+   "source": "직행",
+   "title": "㈜아모텍 생산관리(구매) 부문 인턴사원 모집",
+   "company": "아모텍",
+   "url": "https://zighang.com/recruitment/f64e66d1-5a74-4998-a9d6-cc397f3ca0f6",
+   "deadline": "2026-12-31",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "무역·물류·유통",
+    "구매·조달",
+    "전자부품",
+    "인턴",
+    "외자구매"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:d856d054-257a-4d88-9663-300baabe905b",
+   "source": "직행",
+   "title": "[인천보훈병원] 체험형 청년인턴(물리치료사, 작업치료사) 공개 채용",
+   "company": "한국보훈복지의료공단",
+   "url": "https://zighang.com/recruitment/d856d054-257a-4d88-9663-300baabe905b",
+   "deadline": "2026-12-09",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "의료·보건",
+    "물리치료·작업치료",
+    "물리치료",
+    "공공기관",
+    "청년인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:047870ac-fcd1-4b90-875b-38805d63e565",
+   "source": "직행",
+   "title": "[셀트리온그룹사] 해외 영업 담당 전환형 인턴",
+   "company": "셀트리온스킨큐어",
+   "url": "https://zighang.com/recruitment/047870ac-fcd1-4b90-875b-38805d63e565",
+   "deadline": "2026-12-26",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "영업",
+    "해외영업",
+    "화장품",
+    "전환형인턴",
+    "시장조사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:4223e6d6-15cd-47de-9e52-ff6f3f0091e6",
+   "source": "직행",
+   "title": "[삼일회계법인] Public Service팀 내 의료헬스케어 분야 RA 인턴 채용",
+   "company": "삼일회계법인",
+   "url": "https://zighang.com/recruitment/4223e6d6-15cd-47de-9e52-ff6f3f0091e6",
+   "deadline": "2026-12-08",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "컨설팅",
+    "PPT엑셀",
+    "헬스케어",
+    "병원컨설팅"
+   ],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:0824ca38-223d-4446-a0f1-a0df696554af",
+   "source": "직행",
+   "title": "[SK스페셜티]Market&Portfolio 정규직 전환형 인턴 모집",
+   "company": "에스케이스페셜티",
+   "url": "https://zighang.com/recruitment/0824ca38-223d-4446-a0f1-a0df696554af",
+   "deadline": "2026-12-06",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "기획·전략·경영",
+    "사업·전략기획",
+    "반도체",
+    "실적분석",
+    "시장분석"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2a4af745-ff48-434a-9f7a-0b343cdf0784",
+   "source": "직행",
+   "title": "2026년 청년인턴 공개채용 재공고",
+   "company": "정보통신정책연구원",
+   "url": "https://zighang.com/recruitment/2a4af745-ff48-434a-9f7a-0b343cdf0784",
+   "deadline": "2026-12-04",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "행정사무",
+    "공공기관",
+    "청년인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:80d6fa01-f4ba-4b76-8bf2-25cbfc976048",
+   "source": "직행",
+   "title": "[채용연계형 인턴] AI Agent 플랫폼 개발자 채용",
+   "company": "유진아이티서비스",
+   "url": "https://zighang.com/recruitment/80d6fa01-f4ba-4b76-8bf2-25cbfc976048",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "AI·데이터",
+    "IT·개발",
+    "생성형AI",
+    "서버·백엔드",
+    "API개발",
+    "MCP연계",
+    "AI플랫폼"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:cea74e7c-27fe-4c9b-87aa-5bd3612eaef7",
+   "source": "직행",
+   "title": "[진학사] CATCH 플랫폼운영팀 서비스운영 인재 채용(인턴)",
+   "company": "진학사",
+   "url": "https://zighang.com/recruitment/cea74e7c-27fe-4c9b-87aa-5bd3612eaef7",
+   "deadline": "2026-12-03",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "운영관리·OM",
+    "취업플랫폼",
+    "콘텐츠검수",
+    "서비스운영"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:cbf0c875-13ef-4718-8412-1df85eec898b",
+   "source": "직행",
+   "title": "앱/웹 서비스 기획 (PM) (전환형 인턴)",
+   "company": "넥스트그라운드",
+   "url": "https://zighang.com/recruitment/cbf0c875-13ef-4718-8412-1df85eec898b",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "기획·전략·경영",
+    "PM·PO",
+    "화면설계",
+    "자율휴가",
+    "프롭테크"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:6a195c8c-7acc-4982-bd66-c6a27c177f36",
+   "source": "직행",
+   "title": "[위버스브레인] 영상 편집자 모집 (체험형인턴)",
+   "company": "위버스브레인",
+   "url": "https://zighang.com/recruitment/6a195c8c-7acc-4982-bd66-c6a27c177f36",
+   "deadline": "2026-12-26",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "미디어·엔터·방송",
+    "영상편집",
+    "광고영상",
+    "교육",
+    "영상편집"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:9fda1579-ca05-4deb-bb3a-4121e9bac23a",
+   "source": "직행",
+   "title": "소방자동차,특수구급자동차 조립원 추가모집 (생산조립,전기내선)",
+   "company": "지브이티",
+   "url": "https://zighang.com/recruitment/9fda1579-ca05-4deb-bb3a-4121e9bac23a",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "생산",
+    "전장배선",
+    "차량조립",
+    "특장차"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:1a29ed74-e03a-4f81-96d3-be075feefa63",
+   "source": "직행",
+   "title": "2027 NC문화재단 프로젝토리 크루(인턴) 채용 공고",
+   "company": "NC문화재단",
+   "url": "https://zighang.com/recruitment/1a29ed74-e03a-4f81-96d3-be075feefa63",
+   "deadline": "2026-12-09",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "운영관리·OM",
+    "프로그램기획",
+    "사회공헌",
+    "프로젝트지원"
+   ],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:0c19af30-0fb5-4d7a-a483-aa0e11fa9ac3",
+   "source": "직행",
+   "title": "Brand Management Intern, Schwarzkopf Professional – Summer/Fall 2027",
+   "company": "한국헨켈",
+   "url": "https://zighang.com/recruitment/0c19af30-0fb5-4d7a-a483-aa0e11fa9ac3",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "마케팅기획·전략",
+    "브랜드마케팅",
+    "시장분석",
+    "브랜드전략",
+    "헤어케어"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:d911f5ea-343d-406e-bdeb-6e45ff071a78",
+   "source": "직행",
+   "title": "[서울남부지사] 2027년 서울도시가스 신입사원 채용 안내(가점제 채용)",
+   "company": "한국장애인고용공단",
+   "url": "https://zighang.com/recruitment/d911f5ea-343d-406e-bdeb-6e45ff071a78",
+   "deadline": "2026-12-05",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "엔지니어링·연구·RND",
+    "기획·전략·경영",
+    "에너지",
+    "사업·전략기획",
+    "경영전략",
+    "가스안전",
+    "도시가스"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:24f1ddac-363c-43c0-b5f5-fa5d3a52982a",
+   "source": "직행",
+   "title": "채용형 인턴 채용공고(주택관리공단 강원지사)",
+   "company": "주택관리공단",
+   "url": "https://zighang.com/recruitment/24f1ddac-363c-43c0-b5f5-fa5d3a52982a",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "공공·복지",
+    "기타공공·복지",
+    "공동주택관리",
+    "인턴",
+    "공공기관"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:895b00dd-c9bb-4b7c-9ea7-276de6481024",
+   "source": "직행",
+   "title": "[미국인턴/캘리포니아] KT Global Logistics 무역/물류 부문 채용",
+   "company": "KT GLOBAL LOGISTICS",
+   "url": "https://zighang.com/recruitment/895b00dd-c9bb-4b7c-9ea7-276de6481024",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "무역·물류·유통",
+    "물류·SCM",
+    "인턴",
+    "공급망관리",
+    "물류"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:7efb5873-4de4-4907-94b7-d6c2117e3541",
+   "source": "직행",
+   "title": "채용형 인턴 채용공고(주택관리공단 강원지사)",
+   "company": "주택관리공단",
+   "url": "https://zighang.com/recruitment/7efb5873-4de4-4907-94b7-d6c2117e3541",
+   "deadline": "2026-12-03",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "공공주택",
+    "NCS평가",
+    "행정업무"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:d9a22a3f-daf1-4076-9b77-5497042907fe",
+   "source": "직행",
+   "title": "Strategic Innovation Intern, Schwarzkopf Professional - Summer 2027",
+   "company": "한국헨켈",
+   "url": "https://zighang.com/recruitment/d9a22a3f-daf1-4076-9b77-5497042907fe",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "마케팅기획·전략",
+    "제품컨셉",
+    "뷰티",
+    "소비자분석"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:1441a356-926b-4dc7-8666-085d83c137eb",
+   "source": "직행",
+   "title": "교육/문화 어시스턴트 (체험형 인턴)",
+   "company": "카카오뱅크",
+   "url": "https://zighang.com/recruitment/1441a356-926b-4dc7-8666-085d83c137eb",
+   "deadline": "2026-12-14",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "인사·노무·HRD·총무",
+    "HRD·조직문화",
+    "교육운영",
+    "교육콘텐츠",
+    "기업문화"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:ec432870-fc92-48ea-8d87-775779bc2396",
+   "source": "직행",
+   "title": "Intern - Bachelors Tech",
+   "company": "HP",
+   "url": "https://zighang.com/recruitment/ec432870-fc92-48ea-8d87-775779bc2396",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "기타IT·개발",
+    "기술지원",
+    "하이브리드",
+    "하이테크"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:37b623fd-2b69-4bdc-9f16-e2e6dfd147dc",
+   "source": "직행",
+   "title": "2026년 제3차 한국전력공사 인천본부 장애인 체험형 인턴 모집공고",
+   "company": "한국장애인고용공단",
+   "url": "https://zighang.com/recruitment/37b623fd-2b69-4bdc-9f16-e2e6dfd147dc",
+   "deadline": "2026-11-30",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "공기업",
+    "사무지원",
+    "유연근무"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:907d35fc-b47e-477d-8203-73c0632db030",
+   "source": "직행",
+   "title": "International Business Development & Marketing Intern – Summer/Fall 2027",
+   "company": "한국헨켈",
+   "url": "https://zighang.com/recruitment/907d35fc-b47e-477d-8203-73c0632db030",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "글로벌마케팅",
+    "글로벌마케팅",
+    "뷰티",
+    "시장조사"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:d6911f82-510e-4f94-aca5-121ccaa561ef",
+   "source": "직행",
+   "title": "Business Analytics Intern, Hair Professional – Summer/Fall 2027",
+   "company": "한국헨켈",
+   "url": "https://zighang.com/recruitment/d6911f82-510e-4f94-aca5-121ccaa561ef",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "AI·데이터",
+    "데이터분석가",
+    "PowerBI",
+    "데이터분석",
+    "헤어케어"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:e552184c-843c-46a8-9186-f3f3fa764cbd",
+   "source": "직행",
+   "title": "2027년 서울도시가스 채용연계형 인턴 채용 공고(전문학사)",
+   "company": "서울도시가스",
+   "url": "https://zighang.com/recruitment/e552184c-843c-46a8-9186-f3f3fa764cbd",
+   "deadline": "2026-12-05",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "엔지니어링·연구·RND",
+    "에너지",
+    "도시가스",
+    "정규직전환",
+    "가스시설점검"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:1b179b69-8041-434e-b10c-de9f30b4a808",
+   "source": "직행",
+   "title": "2027 Summer Intern - Personalized Healthcare Solutions (PHCS) International Business Team",
+   "company": "로슈",
+   "url": "https://zighang.com/recruitment/1b179b69-8041-434e-b10c-de9f30b4a808",
+   "deadline": "2026-12-08",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "마케팅기획·전략",
+    "마케팅자료",
+    "헬스케어",
+    "시장조사"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:5e37dbdd-362c-4f75-b88b-41c53e4c20d3",
+   "source": "직행",
+   "title": "[긴급(춘천권)] 강원지사 채용형 인턴(행정직)채용",
+   "company": "주택관리공단",
+   "url": "https://zighang.com/recruitment/5e37dbdd-362c-4f75-b88b-41c53e4c20d3",
+   "deadline": "2026-12-03",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "공공·복지",
+    "행정·사무·운영",
+    "문서관리",
+    "회계처리",
+    "공동주택"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:0562afcb-a702-4b18-84b5-272c280481b5",
+   "source": "직행",
+   "title": "2027년 상반기 인턴 모집",
+   "company": "연세대학교의료원",
+   "url": "https://zighang.com/recruitment/0562afcb-a702-4b18-84b5-272c280481b5",
+   "deadline": "2027-02-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "의료·보건",
+    "의사",
+    "의사면허",
+    "인턴",
+    "의료"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:f45cc42c-dbd8-44ea-b60f-52bb2bfae172",
+   "source": "직행",
+   "title": "[미국인턴/앨라배마] 현대기차 1차 협력사, 서연이화 - 각 부문 별 채용 (숙소 지원)",
+   "company": "Seoyon E-hwa Interior Systems Alabama",
+   "url": "https://zighang.com/recruitment/f45cc42c-dbd8-44ea-b60f-52bb2bfae172",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "무역·물류·유통",
+    "자재·재고관리",
+    "생산",
+    "품질",
+    "숙소지원",
+    "자동차",
+    "자재재고"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:7dae5e19-f8e8-4daf-853b-315ac6aa92a8",
+   "source": "직행",
+   "title": "Integrated Marketing Intern, Schwarzkopf Professional - Summer/Fall 2027",
+   "company": "한국헨켈",
+   "url": "https://zighang.com/recruitment/7dae5e19-f8e8-4daf-853b-315ac6aa92a8",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "마케팅·광고·홍보",
+    "마케팅기획·전략",
+    "브랜드마케팅",
+    "뷰티",
+    "브랜드캠페인",
+    "마케팅"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:0e53a5e0-c977-45ae-b293-66799e674142",
+   "source": "직행",
+   "title": "[미국인턴/앨라배마] 서연이화 미국 셀마 법인 QC부문 채용",
+   "company": "서연이화",
+   "url": "https://zighang.com/recruitment/0e53a5e0-c977-45ae-b293-66799e674142",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "품질",
+    "숙소제공",
+    "품질검사",
+    "자동차부품"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:3b44aca2-660f-47d4-9e21-552fc6220c76",
+   "source": "직행",
+   "title": "[미국인턴/앨라배마] 서연이화 미국 몽고메리 법인 각 부문 채용",
+   "company": "서연이화",
+   "url": "https://zighang.com/recruitment/3b44aca2-660f-47d4-9e21-552fc6220c76",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "생산·기능",
+    "무역·물류·유통",
+    "자재·재고관리",
+    "생산",
+    "물류·SCM",
+    "사출성형",
+    "숙소제공",
+    "자동차"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:33c380aa-abed-422f-8c31-36208b7d603a",
+   "source": "직행",
+   "title": "Web Marketing Intern - Digital Experience Analytics",
+   "company": "텍사스인스트루먼트코리아",
+   "url": "https://zighang.com/recruitment/33c380aa-abed-422f-8c31-36208b7d603a",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "AI·데이터",
+    "데이터분석가",
+    "반도체",
+    "KPI분석",
+    "개인화경험"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:c5c588e8-32f5-49ba-86e2-541d1b455413",
+   "source": "직행",
+   "title": "문화 콘텐츠 어시스턴트 (체험형 인턴)",
+   "company": "카카오뱅크",
+   "url": "https://zighang.com/recruitment/c5c588e8-32f5-49ba-86e2-541d1b455413",
+   "deadline": "2026-12-14",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "인사·노무·HRD·총무",
+    "HRD·조직문화",
+    "영상콘텐츠",
+    "핀테크",
+    "문화프로그램"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:f718b421-c041-47bc-9a18-c05a59371d6a",
+   "source": "직행",
+   "title": "[미국] CA 소재 글로벌 치과용 임플란트 전문 기업 NEOPLANT USA, INC 사 - LATAM Business Development Intern 채용",
+   "company": "NEOPLANT USA",
+   "url": "https://zighang.com/recruitment/f718b421-c041-47bc-9a18-c05a59371d6a",
+   "deadline": "2026-12-13",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "영업",
+    "해외영업",
+    "해외영업",
+    "치과임플란트",
+    "시장조사"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:2918c7a3-e6ed-4316-a9ab-c7cf5e9a7baa",
+   "source": "직행",
+   "title": "강원지사 채용형 인턴(기술직)채용 (화천권)",
+   "company": "주택관리공단",
+   "url": "https://zighang.com/recruitment/2918c7a3-e6ed-4316-a9ab-c7cf5e9a7baa",
+   "deadline": "2026-12-11",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "건설·건축",
+    "기계·전기·소방·설비",
+    "안전점검",
+    "시설유지보수",
+    "공동주택"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:b4635958-f765-444c-93af-f2aed3f31c78",
+   "source": "직행",
+   "title": "중랑구시설관리공단(시니어인턴_일반, 보훈) 채용 공고",
+   "company": "중랑구시설관리공단",
+   "url": "https://zighang.com/recruitment/b4635958-f765-444c-93af-f2aed3f31c78",
+   "deadline": "2026-12-07",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "공공·복지",
+    "기타공공·복지",
+    "시니어인턴",
+    "시설관리",
+    "공공기관"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:5c1376b1-1ad1-4c50-91c6-d4d31f128ff1",
+   "source": "직행",
+   "title": "Customer Delivery Specialist Intern",
+   "company": "HP",
+   "url": "https://zighang.com/recruitment/5c1376b1-1ad1-4c50-91c6-d4d31f128ff1",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "영업",
+    "영업관리·지원",
+    "하이브리드",
+    "글로벌테크",
+    "리스계약"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:5042537d-5eb1-4a07-93c9-091496703501",
+   "source": "직행",
+   "title": "[미국인턴/북미지역] NEXIEN Inc. | HR&Business Operations Coordinator 채용",
+   "company": "NEXIEN",
+   "url": "https://zighang.com/recruitment/5042537d-5eb1-4a07-93c9-091496703501",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "인사·노무·HRD·총무",
+    "리크루터·헤드헌터",
+    "기타HR·총무",
+    "B2B",
+    "미국인턴",
+    "인재채용"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:5129dc06-46d8-4d94-b32a-3b7e5a216735",
+   "source": "직행",
+   "title": "Intern - Project Engineering",
+   "company": "ABB코리아",
+   "url": "https://zighang.com/recruitment/5129dc06-46d8-4d94-b32a-3b7e5a216735",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "전기·전자·제어",
+    "하이브리드",
+    "자동화",
+    "프로젝트지원"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:d90c7c80-0242-4c81-a398-36459c7d3241",
+   "source": "직행",
+   "title": "Software Intern - Winter 2027",
+   "company": "ABB코리아",
+   "url": "https://zighang.com/recruitment/d90c7c80-0242-4c81-a398-36459c7d3241",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "임베디드소프트웨어",
+    "하이브리드",
+    "산업자동화",
+    "펌웨어검증"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:fb4b61a1-cdcc-418f-b98f-d5d2b1b3a6b8",
+   "source": "직행",
+   "title": "[KREAM] 영업 기획 체험형 인턴 모집",
+   "company": "스노우",
+   "url": "https://zighang.com/recruitment/fb4b61a1-cdcc-418f-b98f-d5d2b1b3a6b8",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "상품기획·MD",
+    "온라인MD",
+    "기획전운영",
+    "패션이커머스",
+    "데이터가공"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:67244bb2-b0ae-4211-8ae8-509038f6937e",
+   "source": "직행",
+   "title": "Intern",
+   "company": "로슈",
+   "url": "https://zighang.com/recruitment/67244bb2-b0ae-4211-8ae8-509038f6937e",
+   "deadline": "2026-12-02",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "기획·전략·경영",
+    "경영지원",
+    "행정지원",
+    "엑셀",
+    "제약"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:e91fb78e-371a-47b1-8040-33d93e917b50",
+   "source": "직행",
+   "title": "Electrical Engineer Intern (m/f/d)",
+   "company": "허니웰",
+   "url": "https://zighang.com/recruitment/e91fb78e-371a-47b1-8040-33d93e917b50",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "엔지니어링·연구·RND",
+    "전기·전자·제어",
+    "전기엔지니어",
+    "인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:d0e5d25e-914c-40db-9c24-3b5c118845e8",
+   "source": "직행",
+   "title": "Intern - Bachelors Tech",
+   "company": "HP",
+   "url": "https://zighang.com/recruitment/d0e5d25e-914c-40db-9c24-3b5c118845e8",
+   "deadline": "상시",
+   "posted": "2026-11-26",
+   "tags": [
+    "체험형인턴",
+    "IT·개발",
+    "기타IT·개발",
+    "기술지원",
+    "시스템유지",
+    "하이테크"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "zighang:ecda9256-3343-4ab9-85e7-3322fa008cd8",
+   "source": "직행",
+   "title": "[AMG] 미국 마케팅 전환형 인턴",
+   "company": "위시컴퍼니",
+   "url": "https://zighang.com/recruitment/ecda9256-3343-4ab9-85e7-3322fa008cd8",
+   "deadline": "2026-12-04",
+   "posted": "2026-11-26",
+   "tags": [
+    "전환형인턴",
+    "마케팅·광고·홍보",
+    "글로벌마케팅",
+    "뷰티",
+    "글로벌트렌드",
+    "인플루언서"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165455",
+   "source": "성균관대",
+   "title": "[매쉬업벤처스] 마케터 겨울방학 인턴 채용 (전환형, 졸업 예정자)",
+   "company": "매쉬업벤처스",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vMIwCcNE8qBw0s0OUzN1g9w&modalChk=Y",
+   "deadline": "2026-12-02",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165454",
+   "source": "성균관대",
+   "title": "[뉴패러다임인베스트먼트] 2027년 상반기 채용연계 및 체험형인턴 공고",
+   "company": "뉴패러다임인베스트먼트",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vHRRQu4prSKsQuH8eNKTRrH&modalChk=Y",
+   "deadline": "2026-12-15",
+   "posted": "",
+   "tags": [
+    "채용연계형인턴",
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165453",
+   "source": "성균관대",
+   "title": "[iM뱅크] 2027년 상반기 체험형 인턴 채용",
+   "company": "iM뱅크",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vFay5Y7C0vpveW2jy9b4XZR&modalChk=Y",
+   "deadline": "2026-12-02",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165452",
+   "source": "성균관대",
+   "title": "[베이직스] CEO Staff 인턴 채용공고",
+   "company": "베이직스",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vLiAZQs2mlnVOJ9SsZnOsrt&modalChk=Y",
+   "deadline": "상시",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165451",
+   "source": "성균관대",
+   "title": "[코드잇] 그래픽 디자이너 / 리크루터 인턴 채용",
+   "company": "주식회사 코드잇",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vMglgqGCFo0gnWGlYzYQyYH&modalChk=Y",
+   "deadline": "상시",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165450",
+   "source": "성균관대",
+   "title": "[한국파스퇴르연구소] 2027 동계 바이오 인턴십 모집",
+   "company": "한국파스퇴르연구소",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vGvh4gdUe6WFDZglNOKqNvU&modalChk=Y",
+   "deadline": "2026-12-11",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165449",
+   "source": "성균관대",
+   "title": "[NC문화재단] 프로젝토리 크루(인턴) 모집(~12.9)",
+   "company": "NC문화재단",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vGqVp2YCBQ5sY2wlKhEJ6xa&modalChk=Y",
+   "deadline": "2026-12-09",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165448",
+   "source": "성균관대",
+   "title": "[윌로그] 법무 (Legal& Compliance) 인턴",
+   "company": "윌로그",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vIJQmowrTOV7YfU6DqHixul&modalChk=Y",
+   "deadline": "상시",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165447",
+   "source": "성균관대",
+   "title": "[삼일회계법인] Public Service팀 내 의료헬스케어 분야 RA 인턴 채용",
+   "company": "삼일회계법인",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vHUtBdT9u4zTvlSMLejPa3W&modalChk=Y",
+   "deadline": "2026-12-08",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165444",
+   "source": "성균관대",
+   "title": "[LSSC] 채용홍보",
+   "company": "LSSC",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vHoGWcD7jn571lamN0Y8NSN&modalChk=Y",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "채용연계형인턴"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165443",
+   "source": "성균관대",
+   "title": "[네오위즈] Branding & Communication PR Intern",
+   "company": "(주)네오위즈",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vLNlS9NLL1zHsWyJWhGfxVl&modalChk=Y",
+   "deadline": "상시",
+   "posted": "",
+   "tags": [
+    "인턴직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367354",
+   "source": "링커리어",
+   "title": "[하루7H근무/중식제공/본사] 신세계인터내셔날 주얼리/워치/아이웨어(입점패션) AMD 채용",
+   "company": "주식회사유니에스",
+   "url": "https://linkareer.com/activity/367354",
+   "deadline": "2026-12-14",
+   "posted": "",
+   "tags": [
+    "MD/상품기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367348",
+   "source": "링커리어",
+   "title": "[팀모먼트(비나우 자회사)] 남미 B2B 영업 지원 (전환형 인턴)",
+   "company": "팀모먼트",
+   "url": "https://linkareer.com/activity/367348",
+   "deadline": "2026-12-16",
+   "posted": "",
+   "tags": [
+    "B2B영업",
+    "해외영업",
+    "무역영업/해외영업"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367343",
+   "source": "링커리어",
+   "title": "[대기업/청담/본사/7시간근무/중식제공] 신세계인터내셔날 이커머스패션팀 (VOV/보브) AMD 채용",
+   "company": "주식회사유니에스",
+   "url": "https://linkareer.com/activity/367343",
+   "deadline": "2026-12-01",
+   "posted": "",
+   "tags": [
+    "MD/상품기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367317",
+   "source": "링커리어",
+   "title": "[채용전환형/월500만원] 모두닥 Problem Solver (Sales Focused) 인턴",
+   "company": "모두닥 주식회사",
+   "url": "https://linkareer.com/activity/367317",
+   "deadline": "2026-12-31",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367315",
+   "source": "링커리어",
+   "title": "[채용전환형/월 500만원] 모두닥 Problem Solver - Product Marketer 인턴",
+   "company": "모두닥 주식회사",
+   "url": "https://linkareer.com/activity/367315",
+   "deadline": "2026-12-31",
+   "posted": "",
+   "tags": [
+    "마케팅기획/전략"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367316",
+   "source": "링커리어",
+   "title": "[채용전환형/월 500만원] 모두닥 Problem Solver (Engineering Focused) 인턴",
+   "company": "모두닥 주식회사",
+   "url": "https://linkareer.com/activity/367316",
+   "deadline": "2026-12-31",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367314",
+   "source": "링커리어",
+   "title": "[채용전환형/월 500만원] 모두닥 Problem Solver - 인플루언서 마케팅 인턴",
+   "company": "모두닥 주식회사",
+   "url": "https://linkareer.com/activity/367314",
+   "deadline": "2026-12-31",
+   "posted": "",
+   "tags": [
+    "SNS/콘텐츠마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367311",
+   "source": "링커리어",
+   "title": "[휴학생 우대/월 350만원] 모두닥 비즈니스 실전 체험 인턴 (세일즈·마케팅)",
+   "company": "모두닥 주식회사",
+   "url": "https://linkareer.com/activity/367311",
+   "deadline": "2026-12-31",
+   "posted": "",
+   "tags": [
+    "영업관리/기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367308",
+   "source": "링커리어",
+   "title": "[크림(KREAM)] Global팀 체험형 인턴 모집",
+   "company": "크림(KREAM)",
+   "url": "https://linkareer.com/activity/367308",
+   "deadline": "2026-12-02",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367304",
+   "source": "링커리어",
+   "title": "[크림(KREAM)] 영업 기획 체험형 인턴 모집",
+   "company": "크림(KREAM)",
+   "url": "https://linkareer.com/activity/367304",
+   "deadline": "2026-12-02",
+   "posted": "",
+   "tags": [
+    "영업관리/기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367302",
+   "source": "링커리어",
+   "title": "[미국] 1989년 설립된 데님 전문 패션회사 프로덕션팀 / 패션 디자이너 모집",
+   "company": "Just Panmaco, Inc. (DBA : Just USA, Fashion)",
+   "url": "https://linkareer.com/activity/367302",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [
+    "패션/의류디자인"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367272",
+   "source": "링커리어",
+   "title": "멜론티켓 발권/배송 담당 어시스턴트",
+   "company": "카카오엔터테인먼트",
+   "url": "https://linkareer.com/activity/367272",
+   "deadline": "2026-12-02",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367271",
+   "source": "링커리어",
+   "title": "[Infra] Admin Assistant (전환형)",
+   "company": "주식회사 노타",
+   "url": "https://linkareer.com/activity/367271",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [
+    "DevOps/클라우드/보안",
+    "QA/기술지원"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367267",
+   "source": "링커리어",
+   "title": "신세계 톰보이 New Biz 운영팀 피팅 인턴 모집공고",
+   "company": "(주)삼구아이앤씨",
+   "url": "https://linkareer.com/activity/367267",
+   "deadline": "2026-12-11",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367257",
+   "source": "링커리어",
+   "title": "[브론테] 상품기획AMD 인턴",
+   "company": "비플랜트",
+   "url": "https://linkareer.com/activity/367257",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [
+    "MD/상품기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367256",
+   "source": "링커리어",
+   "title": "[서울도시가스] 2027년 서울도시가스 채용연계형 인턴 채용 공고(학사이상)",
+   "company": "서울도시가스",
+   "url": "https://linkareer.com/activity/367256",
+   "deadline": "2026-12-05",
+   "posted": "",
+   "tags": [
+    "경영기획/전략",
+    "환경/안전관리"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367242",
+   "source": "링커리어",
+   "title": "Software Engineer (웹 개발 / 정규직 전환형 인턴)",
+   "company": "비누커머스 주식회사",
+   "url": "https://linkareer.com/activity/367242",
+   "deadline": "2026-12-31",
+   "posted": "",
+   "tags": [
+    "프론트엔드개발",
+    "백엔드/서버개발"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367228",
+   "source": "링커리어",
+   "title": "콘텐츠 마케터 채용연계형 인턴 (Content Marketer)",
+   "company": "팀스파르타",
+   "url": "https://linkareer.com/activity/367228",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [
+    "SNS/콘텐츠마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367208",
+   "source": "링커리어",
+   "title": "[미국인턴/캘리포니아][우수근무자 정규직전환 가능] KT Global Logistics (dba KT Express) 물류 오퍼레이터 부문 채용",
+   "company": "KT Global Logistics LLC",
+   "url": "https://linkareer.com/activity/367208",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367207",
+   "source": "링커리어",
+   "title": "[미국인턴/앨라배마][점심, 숙소제공][현대차 협력사] 서연이화 미국 몽고메리 법인 각 부문 채용",
+   "company": "SEOYON EHWA",
+   "url": "https://linkareer.com/activity/367207",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367201",
+   "source": "링커리어",
+   "title": "[미국인턴/앨라배마][점심, 숙소제공][현대차 협력사] 서연이화 미국 셀마 법인 QC부문 채용",
+   "company": "SEOYON EHWA",
+   "url": "https://linkareer.com/activity/367201",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367197",
+   "source": "링커리어",
+   "title": "[미국인턴/북미지역] NEXIEN Inc. | HR&Business Operations Coordinator 채용",
+   "company": "NEXIEN Inc.",
+   "url": "https://linkareer.com/activity/367197",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367196",
+   "source": "링커리어",
+   "title": "[무신사 글로벌] 미국/일본 글로벌 큐레이터 운영 어시스턴트 (아르바이트)",
+   "company": "주식회사 무신사",
+   "url": "https://linkareer.com/activity/367196",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367179",
+   "source": "링커리어",
+   "title": "[한국베링거인겔하임동물약품] Swine & Cattle Marketing Assistant Intern",
+   "company": "한국베링거인겔하임주식회사",
+   "url": "https://linkareer.com/activity/367179",
+   "deadline": "2026-12-09",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367173",
+   "source": "링커리어",
+   "title": "[미국인턴/앨라배마] 현대기차 1차 협력사, 서연이화 - 각 부문 별 채용 (숙소 지원)",
+   "company": "Seoyon E-hwa Interior Systems Alabama, LLC",
+   "url": "https://linkareer.com/activity/367173",
+   "deadline": "2027-02-24",
+   "posted": "",
+   "tags": [
+    "자재/재고관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367057",
+   "source": "링커리어",
+   "title": "2027 NC문화재단 프로젝토리 크루(인턴) 채용 공고",
+   "company": "NC문화재단",
+   "url": "https://linkareer.com/activity/367057",
+   "deadline": "2026-12-09",
+   "posted": "",
+   "tags": [
+    "경영기획/전략",
+    "사업기획/신규사업",
+    "서비스기획/운영"
+   ],
+   "categories": [
+    "금융권",
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367055",
+   "source": "링커리어",
+   "title": "[주식회사 고퀄] 헤이홈 오프라인 박람회 인턴 채용",
+   "company": "주식회사 고퀄",
+   "url": "https://linkareer.com/activity/367055",
+   "deadline": "2027-02-23",
+   "posted": "",
+   "tags": [
+    "PR/홍보",
+    "전시/컨벤션",
+    "판매/매장관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "yonsei:55468",
+   "source": "연세대 MBA",
+   "title": "[뉴패러다임인베스트먼트] 2027년 상반기 투자성장팀 인턴 채용",
+   "company": "뉴패러다임인베스트먼트",
+   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55468",
+   "deadline": "2026-12-15",
+   "posted": "",
+   "tags": [
+    "인턴십"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "yonsei:55467",
+   "source": "연세대 MBA",
+   "title": "[NC문화재단] 2027 프로젝토리 크루(인턴) 채용 공고 (~12/9)",
+   "company": "NC문화재단",
+   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55467",
+   "deadline": "2026-12-09",
+   "posted": "",
+   "tags": [
+    "인턴십"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "yonsei:55466",
+   "source": "연세대 MBA",
+   "title": "[AstraZeneca Korea] Asia AZpire Graduate Program - Korea",
+   "company": "AstraZeneca Korea",
+   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55466",
+   "deadline": "2027-01-03",
+   "posted": "",
+   "tags": [
+    "정규직"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50437007",
+   "source": "잡코리아",
+   "title": "2027년 ㈜툴스피아 상반기 부문별 채용",
+   "company": "㈜툴스피아",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50437007",
+   "deadline": "2026-12-26",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "고객관리, 정보디자인, 패키지디자인, 안전 수칙 준수, 거래처관리, 기구설계, 수출입계약, 영선원, 협력사(공장) 관계 관리, 전기 및 조명 시"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50436603",
+   "source": "잡코리아",
+   "title": "[역삼역 베이커리카페] 홀 직원(고객응대) 채용 - 바로입사자 우선채용",
+   "company": "에브리데이 크리스마스 역삼점",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50436603",
+   "deadline": "2026-12-13",
+   "posted": "",
+   "tags": [
+    "협의 후 5일 근무 (근무시간 7시간 출근시간 협의 후 결정)",
+    "메뉴개발, 뷔페, 제과제빵점, 카페, 커피숍, 베이커리, 양식, 호텔, 서빙, 카운터, 베이커리, 양식, 호텔, 서빙, 카운터, 고객응대, 매출"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50436602",
+   "source": "잡코리아",
+   "title": "[역삼역 베이커리카페] 양식 셰프·주방보조 채용 (샐러드/파스타) - 바로",
+   "company": "에브리데이 크리스마스 역삼점",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50436602",
+   "deadline": "2026-12-13",
+   "posted": "",
+   "tags": [
+    "협의 후 5일 근무 (근무시간 7시간 출근시간 협의 후 결정)",
+    "메뉴개발, 뷔페, 제과제빵점, 카페, 커피숍, 메뉴개발, 양식, 호텔, 단체급식, 메뉴개발, 양식, 호텔, 단체급식, 메뉴개발, 양식, 호텔, "
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50435008",
+   "source": "잡코리아",
+   "title": "연구원 계약직 채용",
+   "company": "푸르니보육지원재단",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50435008",
+   "deadline": "2026-12-06",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "문서관리, 문서작성, 전산입력, 서무, 행정, 보육교사, 어린이집, 유치원, 교육기획, 교육진행, 교육행정, 교육콘텐츠개발"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50435813",
+   "source": "잡코리아",
+   "title": "인테리어설계, 시공관리- 신입채용 RECRUIT",
+   "company": "㈜어반프레임(Urbanframe Co.,Ltd.)",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50435813",
+   "deadline": "2026-12-10",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "감리, 건축, 건축설계, 가구디자인, 전시디자인, 인테리어디자인, 조경디자인, 인테리어디자인, 건축감리, 건축설계, 건축CM, 리모델링, 캐드원"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50435634",
+   "source": "잡코리아",
+   "title": "[신입] 화장품 PM / APM 모집",
+   "company": "에스피에스인터네셔널",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50435634",
+   "deadline": "2026-12-11",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "PM, PL, PO, 상품기획, 상품입출고, 재고관리, AMD, 기타외국어, 바이어개발, 수출입계약, 영어, 해외마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50432861",
+   "source": "잡코리아",
+   "title": "홈페이지 운영 / 게시물 관리자 채용",
+   "company": "웨버씨엔에스",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50432861",
+   "deadline": "2026-12-13",
+   "posted": "",
+   "tags": [
+    "2,800~3,500만원",
+    "전산입력, 자료조사, 테스터, 웹마스터, 사이트관리, SNS마케팅, 카페·블로그관리, 문서작성, 프로모션, 문서관리, 매체관리, 검증"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50428789",
+   "source": "잡코리아",
+   "title": "2026년 주식회사 티알에이미디어 하반기 채용 공고",
+   "company": "티알에이미디어",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50428789",
+   "deadline": "2026-12-11",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "부가세신고, 부가세신고, 통계·분석, 복리후생, 부가세신고, 프로모션, SNS마케팅, 세무신고, 문서작성, 재무회계, CFO, 카페·블로그관리,"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50381471",
+   "source": "잡코리아",
+   "title": "출장 세차 (야간) 정규직 채용 / 기본급 370만",
+   "company": "㈜돌쇠출장세차",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50381471",
+   "deadline": "2026-12-17",
+   "posted": "",
+   "tags": [
+    "주5일근무",
+    "자동차튜닝, A·S수리, 경정비, 기술지원, 자동차정비, 적재·하역, 세차, 설치, 기술지원, 세차, A·S수리, 유지보수, 자동차정비"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50369053",
+   "source": "잡코리아",
+   "title": "[일등대패 라페스타] 홀서빙 / 주방 직원 채용",
+   "company": "살맛나는 세상",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50369053",
+   "deadline": "2026-12-16",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "메뉴개발, 메뉴기획, 식품, 음식료, 한식당, 양식, 일식, 중식, 한식, 양식, 일식, 중식, 한식, 양식, 일식, 중식, 한식, 서빙, 카운"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677911",
+   "source": "사람인",
+   "title": "[KREAM] Global팀 체험형 인턴 모집",
+   "company": "크림(주)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677911",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "해외시장개척",
+    "해외영업",
+    "해외영업관리",
+    "해외영업지원",
+    "인플루언서"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677811",
+   "source": "사람인",
+   "title": "2026년 11월 직원(청년인턴) 공개채용 공고",
+   "company": "한국보훈복지의료공단수원보훈요양원",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677811",
+   "deadline": "2026-12-08",
+   "posted": "",
+   "tags": [
+    "문서작성",
+    "서류관리",
+    "고객안내",
+    "고객응대",
+    "행사기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677728",
+   "source": "사람인",
+   "title": "[네이버웹툰] 글로벌웹툰 콘텐츠 기획/운영 (체험형 인턴)",
+   "company": "네이버웹툰(유)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677728",
+   "deadline": "2026-12-13",
+   "posted": "",
+   "tags": [
+    "트렌드분석",
+    "만화/웹툰",
+    "콘텐츠기획",
+    "글로벌마케팅",
+    "콘텐츠마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677692",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(건축)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677692",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "사무보조",
+    "사무행정",
+    "건축기사",
+    "건축설비",
+    "건축설계"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677667",
+   "source": "사람인",
+   "title": "[네이버웹툰] 프랑스 웹툰 마케팅 지원 (체험형 인턴)",
+   "company": "네이버웹툰(유)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677667",
+   "deadline": "2026-12-08",
+   "posted": "",
+   "tags": [
+    "제2외국어",
+    "만화/웹툰",
+    "마케팅기획",
+    "마케팅전략",
+    "글로벌마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677576",
+   "source": "사람인",
+   "title": "[네이버웹툰] FR Webtoon 영상 디자이너 (체험형 인턴)",
+   "company": "네이버웹툰(유)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677576",
+   "deadline": "2026-12-08",
+   "posted": "",
+   "tags": [
+    "영상디자이너",
+    "영상자막",
+    "영상제작",
+    "영상편집",
+    "만화/웹툰"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677573",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(지질)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677573",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "사무보조",
+    "사무행정",
+    "토양환경",
+    "토양환경기사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677474",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(전자통신)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677474",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "정보보안",
+    "정보통신",
+    "사무보조",
+    "사무행정",
+    "통신설계"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677471",
+   "source": "사람인",
+   "title": "[매드엔진] 전략기획 인턴 모집 (정규직 전환형)",
+   "company": "(주)매드엔진",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677471",
+   "deadline": "2026-12-15",
+   "posted": "",
+   "tags": [
+    "게임개발",
+    "게임기획",
+    "전략기획",
+    "리서치",
+    "트렌드분석"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677450",
+   "source": "사람인",
+   "title": "[네이버웹툰] KR Webtoon 콘텐츠 마케터 (체험형 인턴)",
+   "company": "네이버웹툰(유)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677450",
+   "deadline": "2026-12-06",
+   "posted": "",
+   "tags": [
+    "브랜딩",
+    "만화/웹툰",
+    "마케팅기획",
+    "마케팅전략",
+    "콘텐츠기획"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677372",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(기계)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677372",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "사무보조",
+    "사무행정",
+    "기계기사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677314",
+   "source": "사람인",
+   "title": "[네이버웹툰] KR Webtoon 퍼포먼스 마케터 (체험형 인턴)",
+   "company": "네이버웹툰(유)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677314",
+   "deadline": "2026-12-06",
+   "posted": "",
+   "tags": [
+    "만화/웹툰",
+    "마케팅기획",
+    "마케팅전략",
+    "콘텐츠기획",
+    "콘텐츠마케팅"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677265",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(토목)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677265",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "사무보조",
+    "사무행정",
+    "토목설계",
+    "토목건축",
+    "토목공사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55677091",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(환경)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55677091",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "사무보조",
+    "사무행정",
+    "토양환경",
+    "수질환경기사",
+    "환경분석"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55676932",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(행정)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55676932",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "사무직",
+    "사무보조",
+    "사무행정"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55676912",
+   "source": "사람인",
+   "title": "[매드엔진] 홍보실 인턴 모집 (정규직 전환형)",
+   "company": "(주)매드엔진",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55676912",
+   "deadline": "2026-12-15",
+   "posted": "",
+   "tags": [
+    "게임개발",
+    "언론홍보",
+    "게임기획",
+    "리서치",
+    "홍보"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55676807",
+   "source": "사람인",
+   "title": "체험형 청년인턴(물리치료사, 작업치료사) 공개채용",
+   "company": "한국보훈복지의료공단인천보훈병원",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55676807",
+   "deadline": "2026-12-09",
+   "posted": "",
+   "tags": [
+    "물리치료사",
+    "작업치료사",
+    "재활의학과",
+    "일반병원",
+    "종합병원"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55676652",
+   "source": "사람인",
+   "title": "2026년 하반기 AI 체험형 인턴 채용(AI)",
+   "company": "한국수자원공사",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55676652",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "AI(인공지능)",
+    "사무보조",
+    "사무행정"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55676526",
+   "source": "사람인",
+   "title": "[코오롱인더스트리 울산1공장] 생산팀 기능직 채용연계형 인턴",
+   "company": "코오롱인더스트리(주)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55676526",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "생산관리",
+    "생산설계",
+    "생산",
+    "생산기술"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "saramin:55676289",
+   "source": "사람인",
+   "title": "공공기관 청년인턴 채용공고(인재개발팀)",
+   "company": "(재)에너지경제연구원",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=public-recruit&rec_idx=55676289",
+   "deadline": "",
+   "posted": "",
+   "tags": [
+    "교육행정",
+    "사무행정",
+    "급여(Payroll)",
+    "인사교육",
+    "인사행정"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 19:20",
+   "last_seen": "2026-11-26 19:20"
+  },
   {
    "uid": "naver23690164:3329350",
    "source": "네카페·금융권 인턴",
@@ -113,7 +4859,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70776",
@@ -129,7 +4875,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:9a9ceef3-ce94-494d-869b-28313bd05536",
@@ -1458,7 +6204,7 @@
    "source": "성균관대",
    "title": "[하버원인베스트먼트] 국내 중소형 PE 투자 업무 지원 ? Intern 모집공고",
    "company": "하버원인베스트먼트",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5Ndc5ukT0meJsQLS3seh8vzW&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vFpmDnArOfUXkJCBQSPuV4r&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -1469,14 +6215,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165440",
    "source": "성균관대",
    "title": "[서울도시가스] 채용연계형 인턴 채용",
    "company": "서울도시가스(주)",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5Nc2ZSdPcmm2aV4IulJJ5FFo&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vG1YIAdxPEGxO98PJSnKlIM&modalChk=Y",
    "deadline": "2026-12-05",
    "posted": "",
    "tags": [
@@ -1488,14 +6234,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165438",
    "source": "성균관대",
    "title": "[헤럴드경제] 콘텐츠프로듀서(CP) PD인턴 채용 공고",
    "company": "헤럴드경제",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NdWHNgVbAQp3XVS3pGmAFgB&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vHrOoJS6UQvmxsmRZ60R4sV&modalChk=Y",
    "deadline": "2026-11-30",
    "posted": "",
    "tags": [
@@ -1506,14 +6252,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165437",
    "source": "성균관대",
    "title": "[에스팀] 패션 디지털 콘텐츠 기획·제작 및 SNS 운영 실무 일경험 프로그램 1기",
    "company": "(주)에스팀",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NX7eAsJlK7Ujr28zyfkb67A&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vIkFskXDsl0sJsnE1tuqHkU&modalChk=Y",
    "deadline": "2026-11-29",
    "posted": "",
    "tags": [
@@ -1524,14 +6270,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165436",
    "source": "성균관대",
    "title": "[ANUA] BI PM 채용전환형 인턴",
    "company": "주식회사 더파운더즈",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NaMssotPeqUrYSovHK3FUEr&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vKrhW8Q3Q72aF8God8jKN7c&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -1542,14 +6288,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165434",
    "source": "성균관대",
    "title": "[아이엔지증권] 인턴 채용 공고",
    "company": "아이엔지증권",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NcKzqUHbOB8Wf7u5xslGCvi&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vFttiRP7OPBngzOZcYUORcr&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -1560,14 +6306,14 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165433",
    "source": "성균관대",
    "title": "[하일랜드에쿼티파트너스] RA 인턴 모집공고",
    "company": "(주)하일랜드에쿼티파트너스",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NbyXGwKa8bbGraybJuK8GwI&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vI6Os1Dcn6BnuYsQVRkrYA9&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -1578,7 +6324,61 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367144",
+   "source": "링커리어",
+   "title": "[미국] CA 소재 글로벌 치과용 임플란트 전문 기업 NEOPLANT USA, INC 사 - LATAM Business Development Intern 채용",
+   "company": "NEOPLANT USA",
+   "url": "https://linkareer.com/activity/367144",
+   "deadline": "2026-12-13",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 10:27",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367142",
+   "source": "링커리어",
+   "title": "[한국수자원공사] 2026년 하반기 AI 체험형 인턴 채용",
+   "company": "한국수자원공사",
+   "url": "https://linkareer.com/activity/367142",
+   "deadline": "2026-12-04",
+   "posted": "",
+   "tags": [
+    "AI/ML엔지니어",
+    "환경/안전관리",
+    "건축/인테리어설계",
+    "토목/조경",
+    "전기/소방/설비"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 10:27",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "linkareer:367138",
+   "source": "링커리어",
+   "title": "[아이엠뱅크] 2027년 상반기 iM뱅크 체험형 장기인턴 모집",
+   "company": "아이엠뱅크",
+   "url": "https://linkareer.com/activity/367138",
+   "deadline": "2026-12-02",
+   "posted": "",
+   "tags": [],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 10:27",
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165432",
@@ -1646,60 +6446,6 @@
    "tags": [],
    "categories": [
     "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "linkareer:367144",
-   "source": "링커리어",
-   "title": "[미국] CA 소재 글로벌 치과용 임플란트 전문 기업 NEOPLANT USA, INC 사 - LATAM Business Development Intern 채용",
-   "company": "NEOPLANT USA",
-   "url": "https://linkareer.com/activity/367144",
-   "deadline": "2026-12-13",
-   "posted": "",
-   "tags": [],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "linkareer:367142",
-   "source": "링커리어",
-   "title": "[한국수자원공사] 2026년 하반기 AI 체험형 인턴 채용",
-   "company": "한국수자원공사",
-   "url": "https://linkareer.com/activity/367142",
-   "deadline": "2026-12-04",
-   "posted": "",
-   "tags": [
-    "AI/ML엔지니어",
-    "환경/안전관리",
-    "건축/인테리어설계",
-    "토목/조경",
-    "전기/소방/설비"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-26 10:27",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "linkareer:367138",
-   "source": "링커리어",
-   "title": "[아이엠뱅크] 2027년 상반기 iM뱅크 체험형 장기인턴 모집",
-   "company": "아이엠뱅크",
-   "url": "https://linkareer.com/activity/367138",
-   "deadline": "2026-12-02",
-   "posted": "",
-   "tags": [],
-   "categories": [
-    "금융권"
    ],
    "intern": true,
    "first_seen": "2026-11-26 10:27",
@@ -1997,7 +6743,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:636f166f-ebc0-46c5-ae91-c53ca53f897c",
@@ -5324,24 +10070,6 @@
    "last_seen": "2026-11-26 01:39"
   },
   {
-   "uid": "skku:165423",
-   "source": "성균관대",
-   "title": "[신세계인터내셔날] 코스메틱 돌체앤가바니뷰티 디자인&AMD 인턴 채용",
-   "company": "(주)신세계인터내셔날",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NcEhKTzgMJ6YVPFkliVk9cx&modalChk=Y",
-   "deadline": "상시",
-   "posted": "",
-   "tags": [
-    "인턴직"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
    "uid": "linkareer:367114",
    "source": "링커리어",
    "title": "[EY한영] 전략·재무자문부문 Deal3(M&A)팀 정규전환형 인턴",
@@ -5358,7 +10086,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367113",
@@ -5376,7 +10104,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367112",
@@ -5394,7 +10122,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367101",
@@ -5412,7 +10140,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367094",
@@ -5430,7 +10158,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367089",
@@ -5448,7 +10176,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367081",
@@ -5468,7 +10196,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367061",
@@ -5486,7 +10214,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367049",
@@ -5502,7 +10230,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:367048",
@@ -5515,6 +10243,80 @@
    "tags": [
     "데이터분석",
     "IT기획/PM/PO"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 01:39",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "yonsei:55464",
+   "source": "연세대 MBA",
+   "title": "[헤스캐피탈파트너스] 2027 동계 대학생 인턴 채용(~12/11)",
+   "company": "헤스캐피탈파트너스",
+   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55464",
+   "deadline": "2026-12-11",
+   "posted": "",
+   "tags": [
+    "인턴십"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": true,
+   "first_seen": "2026-11-26 01:39",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50430860",
+   "source": "잡코리아",
+   "title": "수산이앤에스 원전/화력/연구개발/우주항공분야 신입/경력사원 채용",
+   "company": "㈜수산이앤에스",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50430860",
+   "deadline": "2026-12-09",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "문서관리, 문서작성, 서무, 자료조사, 행정, 네트워크관리, 서버구축, 시스템분석, 시스템설계, 시스템운영, SI개발, 시스템분석, 시스템설계,"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 01:39",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50413997",
+   "source": "잡코리아",
+   "title": "[충원] 코디네이터 , 피부과 간호 조무사 모집",
+   "company": "심포니성형외과의원",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413997",
+   "deadline": "2026-12-23",
+   "posted": "",
+   "tags": [
+    "주5일(사전협의한 스케즐)",
+    "피부과, 뷰티, 사진촬영, 시술, 영어통역, 피부시술, 심포니성형외과, 심포니성형외과의원, symclinic, 성형외과, 피부과, 수술실보조, "
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-26 01:39",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "skku:165423",
+   "source": "성균관대",
+   "title": "[신세계인터내셔날] 코스메틱 돌체앤가바니뷰티 디자인&AMD 인턴 채용",
+   "company": "(주)신세계인터내셔날",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NcEhKTzgMJ6YVPFkliVk9cx&modalChk=Y",
+   "deadline": "상시",
+   "posted": "",
+   "tags": [
+    "인턴직"
    ],
    "categories": [
     "기타"
@@ -5752,43 +10554,6 @@
    "last_seen": "2026-11-26 10:27"
   },
   {
-   "uid": "yonsei:55464",
-   "source": "연세대 MBA",
-   "title": "[헤스캐피탈파트너스] 2027 동계 대학생 인턴 채용(~12/11)",
-   "company": "헤스캐피탈파트너스",
-   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55464",
-   "deadline": "2026-12-11",
-   "posted": "",
-   "tags": [
-    "인턴십"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50413997",
-   "source": "잡코리아",
-   "title": "[충원] 코디네이터 , 피부과 간호 조무사 모집",
-   "company": "심포니성형외과의원",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413997",
-   "deadline": "2026-12-23",
-   "posted": "",
-   "tags": [
-    "주5일(사전협의한 스케즐)",
-    "피부과, 뷰티, 사진촬영, 시술, 영어통역, 피부시술, 심포니성형외과, 심포니성형외과의원, symclinic, 성형외과, 피부과, 수술실보조, "
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
    "uid": "saramin:55669858",
    "source": "사람인",
    "title": "부문별 수시채용 (해외수출, 품질관리, 시각디자인)",
@@ -5831,25 +10596,6 @@
    "intern": true,
    "first_seen": "2026-11-26 01:39",
    "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50430860",
-   "source": "잡코리아",
-   "title": "수산이앤에스 원전/화력/연구개발/우주항공분야 신입/경력사원 채용",
-   "company": "㈜수산이앤에스",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50430860",
-   "deadline": "2026-12-09",
-   "posted": "",
-   "tags": [
-    "회사내규에 따름",
-    "문서관리, 문서작성, 서무, 자료조사, 행정, 네트워크관리, 서버구축, 시스템분석, 시스템설계, 시스템운영, SI개발, 시스템분석, 시스템설계,"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-26 01:39",
-   "last_seen": "2026-11-26 01:39"
   },
   {
    "uid": "jobkorea:50432789",
@@ -6055,7 +10801,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3329001",
@@ -6071,7 +10817,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70774",
@@ -6087,7 +10833,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43284",
@@ -6105,7 +10851,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43283",
@@ -6123,7 +10869,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "inthiswork:424061",
@@ -7721,7 +12467,7 @@
    "source": "성균관대",
    "title": "[모두닥] 인턴 채용 재게시",
    "company": "모두닥",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NbKi1NNSWIBsCVVwg97ieqk&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vIy7dSsWiIx4AUDdjPAjdBV&modalChk=Y",
    "deadline": "2026-12-31",
    "posted": "",
    "tags": [
@@ -7733,7 +12479,26 @@
    ],
    "intern": true,
    "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50428483",
+   "source": "잡코리아",
+   "title": "사무직 정규직 채용",
+   "company": "쑥쑥푸드",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50428483",
+   "deadline": "2026-12-25",
+   "posted": "",
+   "tags": [
+    "주5일근무",
+    "유통, 문서관리, 문서작성, 전산입력, 사이트관리, 서무, 자료조사, 행정, 송무담당, 문서관리, 비품관리, 자산관리, 복리후생, 서무, 행정,"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-25 13:45",
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165414",
@@ -8034,25 +12799,6 @@
     "기타"
    ],
    "intern": true,
-   "first_seen": "2026-11-25 13:45",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50428483",
-   "source": "잡코리아",
-   "title": "사무직 정규직 채용",
-   "company": "쑥쑥푸드",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50428483",
-   "deadline": "2026-12-25",
-   "posted": "",
-   "tags": [
-    "주5일근무",
-    "유통, 문서관리, 문서작성, 전산입력, 사이트관리, 서무, 자료조사, 행정, 송무담당, 문서관리, 비품관리, 자산관리, 복리후생, 서무, 행정,"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": false,
    "first_seen": "2026-11-25 13:45",
    "last_seen": "2026-11-26 10:27"
   },
@@ -11812,7 +16558,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70771",
@@ -11828,7 +16574,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43277",
@@ -14181,7 +18927,7 @@
    "source": "성균관대",
    "title": "[에이스투자금융] IB투자금융본부 투자 업무 인턴 채용 공고",
    "company": "에이스투자금융",
-   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=IcQJgxLfuY4PP8YvGXH5NcfOp8N5E9b6yeLiHPL7iI9&modalChk=Y",
+   "url": "https://job.skku.edu/Recruit/RecruitView.aspx?rcdx=C6vH6sOcKDaNdDr6bCb1vFoZeAlO0LzXsF5XlsDmKrz&modalChk=Y",
    "deadline": "상시",
    "posted": "",
    "tags": [
@@ -14192,7 +18938,196 @@
    ],
    "intern": true,
    "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "yonsei:55459",
+   "source": "연세대 MBA",
+   "title": "[제이원창업투자] 심사역 채용 공고",
+   "company": "제이원창업투자",
+   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55459",
+   "deadline": "2026-12-15",
+   "posted": "",
+   "tags": [
+    "전체 경력"
+   ],
+   "categories": [
+    "금융권"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50425737",
+   "source": "잡코리아",
+   "title": "펌텍코리아(주) 국내영업팀 채용 (신입 가능)",
+   "company": "펌텍코리아㈜",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50425737",
+   "deadline": "상시",
+   "posted": "",
+   "tags": [
+    "정규직",
+    "화장품, 거래처관리, 제품개발, 연구·실험·기술, 영업기획, 영업전략, 가맹점관리, 제조·공정, 거래선개발관리, 금형설계, 매출관리, 화장품, "
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50425036",
+   "source": "잡코리아",
+   "title": "온/오프라인 상품 유통 담당자(MD) 모집",
+   "company": "㈜프리윌커뮤니케이션",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50425036",
+   "deadline": "2026-12-24",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "고객관리, 매출관리, 프로모션, 매출관리, 상품기획, 상품입출고, 재고관리, 매출관리, 영업기획, 데이터분석, 영업전략, 게시판관리, 고객지원,"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50423754",
+   "source": "잡코리아",
+   "title": "2026년 하반기 생산직군 KoMiCo 수시채용",
+   "company": "㈜코미코",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50423754",
+   "deadline": "2026-12-08",
+   "posted": "",
+   "tags": [
+    "3,600~4,000만원",
+    "반도체, 반도체생산, 반도체장비, 납품, 물류센터, 재고관리, 창고관리, 상품입출고, 재고관리, 납품, 상품입출고, 택배, 적재·하역, 배송기사"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50421198",
+   "source": "잡코리아",
+   "title": "[신입·경력] 공간 환경 컨설턴트 채용 (향기마케팅 · B2B 영업 · 호텔",
+   "company": "㈜한국환경개발",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50421198",
+   "deadline": "2026-12-25",
+   "posted": "",
+   "tags": [
+    "250만원 이상(월)",
+    "B2B, 디퓨저, 공간 환경 컨설턴트, 방역, 국내영업, 장비영업, 납품영업, 렌탈영업, 유통영업, 거래처관리, 납품영업, 가맹점관리, 거래선개"
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50420830",
+   "source": "잡코리아",
+   "title": "[신입/경력]고래사어묵 정직원 채용 (부산권)",
+   "company": "㈜고래사",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50420830",
+   "deadline": "2026-12-24",
+   "posted": "",
+   "tags": [
+    "월 6회 휴무 (법정공휴일 추가 휴무 제공)",
+    "상품입출고, 식품MD, 재고관리, 식품영업, 가맹점관리, 고객관리, 대리점관리, 한식, 서빙, 카운터, 고객응대, 식품판매, 재고관리, 진열관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50399552",
+   "source": "잡코리아",
+   "title": "르꼬르동블루숙명아카데미 제과 조교, 학사관리 직원모집",
+   "company": "르꼬르동블루숙명아카데미",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399552",
+   "deadline": "2026-12-24",
+   "posted": "",
+   "tags": [
+    "회사내규에 따름",
+    "문서관리, 문서작성, 전산입력, 행정, 시스템분석, 시스템운영, 외자구매, 자재구매, 구매계약, 재고관리, 고객지원, 단순안내, 민원상담, 입출"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50415766",
+   "source": "잡코리아",
+   "title": "2026년도 맥커뮤니케이션(주) 정부행사 국제회의 행사 기획 신입 채용",
+   "company": "맥커뮤니케이션㈜",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415766",
+   "deadline": "2026-11-30",
+   "posted": "",
+   "tags": [
+    "주5일근무",
+    "이벤트, 전산입력, 행사기획, 의전, 전략기획, 행정, 시장조사, 자료조사, 신사업기획, 프로모션, 광고기획, 전시기획, 사업기획, 문서작성, "
+   ],
+   "categories": [
+    "전략기획"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50414096",
+   "source": "잡코리아",
+   "title": "물류센터 야간 쿠팡 택배출고 작업자 채용",
+   "company": "명성",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414096",
+   "deadline": "2026-12-24",
+   "posted": "",
+   "tags": [
+    "300만원 이상(월)",
+    "물류센터, 상품입출고, 창고관리, 택배, 재고관리, 물류센터, 납품, 적재·하역, 납품, 배차, 상품입출고, 재고관리, 택배입출고, 납품기사, "
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50406078",
+   "source": "잡코리아",
+   "title": "[대한골프협회] 2026년 사무행정 정규직 공개채용 공고",
+   "company": "㈔대한골프협회",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50406078",
+   "deadline": "2026-12-03",
+   "posted": "",
+   "tags": [
+    "주5일근무",
+    "행정, 대한골프협회, 골프, 문서관리, 골프, 문서작성, 문서작성, 문서관리"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-24 20:55",
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165408",
@@ -14245,195 +19180,6 @@
     "금융권"
    ],
    "intern": true,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "yonsei:55459",
-   "source": "연세대 MBA",
-   "title": "[제이원창업투자] 심사역 채용 공고",
-   "company": "제이원창업투자",
-   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55459",
-   "deadline": "2026-12-15",
-   "posted": "",
-   "tags": [
-    "전체 경력"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50425737",
-   "source": "잡코리아",
-   "title": "펌텍코리아(주) 국내영업팀 채용 (신입 가능)",
-   "company": "펌텍코리아㈜",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50425737",
-   "deadline": "상시",
-   "posted": "",
-   "tags": [
-    "정규직",
-    "화장품, 거래처관리, 제품개발, 연구·실험·기술, 영업기획, 영업전략, 가맹점관리, 제조·공정, 거래선개발관리, 금형설계, 매출관리, 화장품, "
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50425036",
-   "source": "잡코리아",
-   "title": "온/오프라인 상품 유통 담당자(MD) 모집",
-   "company": "㈜프리윌커뮤니케이션",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50425036",
-   "deadline": "2026-12-24",
-   "posted": "",
-   "tags": [
-    "회사내규에 따름",
-    "고객관리, 매출관리, 프로모션, 매출관리, 상품기획, 상품입출고, 재고관리, 매출관리, 영업기획, 데이터분석, 영업전략, 게시판관리, 고객지원,"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50423754",
-   "source": "잡코리아",
-   "title": "2026년 하반기 생산직군 KoMiCo 수시채용",
-   "company": "㈜코미코",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50423754",
-   "deadline": "2026-12-08",
-   "posted": "",
-   "tags": [
-    "3,600~4,000만원",
-    "반도체, 반도체생산, 반도체장비, 납품, 물류센터, 재고관리, 창고관리, 상품입출고, 재고관리, 납품, 상품입출고, 택배, 적재·하역, 배송기사"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50421198",
-   "source": "잡코리아",
-   "title": "[신입·경력] 공간 환경 컨설턴트 채용 (향기마케팅 · B2B 영업 · 호텔",
-   "company": "㈜한국환경개발",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50421198",
-   "deadline": "2026-12-25",
-   "posted": "",
-   "tags": [
-    "250만원 이상(월)",
-    "B2B, 디퓨저, 공간 환경 컨설턴트, 방역, 국내영업, 장비영업, 납품영업, 렌탈영업, 유통영업, 거래처관리, 납품영업, 가맹점관리, 거래선개"
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50420830",
-   "source": "잡코리아",
-   "title": "[신입/경력]고래사어묵 정직원 채용 (부산권)",
-   "company": "㈜고래사",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50420830",
-   "deadline": "2026-12-24",
-   "posted": "",
-   "tags": [
-    "월 6회 휴무 (법정공휴일 추가 휴무 제공)",
-    "상품입출고, 식품MD, 재고관리, 식품영업, 가맹점관리, 고객관리, 대리점관리, 한식, 서빙, 카운터, 고객응대, 식품판매, 재고관리, 진열관리"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50399552",
-   "source": "잡코리아",
-   "title": "르꼬르동블루숙명아카데미 제과 조교, 학사관리 직원모집",
-   "company": "르꼬르동블루숙명아카데미",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399552",
-   "deadline": "2026-12-24",
-   "posted": "",
-   "tags": [
-    "회사내규에 따름",
-    "문서관리, 문서작성, 전산입력, 행정, 시스템분석, 시스템운영, 외자구매, 자재구매, 구매계약, 재고관리, 고객지원, 단순안내, 민원상담, 입출"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50415766",
-   "source": "잡코리아",
-   "title": "2026년도 맥커뮤니케이션(주) 정부행사 국제회의 행사 기획 신입 채용",
-   "company": "맥커뮤니케이션㈜",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415766",
-   "deadline": "2026-11-30",
-   "posted": "",
-   "tags": [
-    "주5일근무",
-    "이벤트, 전산입력, 행사기획, 의전, 전략기획, 행정, 시장조사, 자료조사, 신사업기획, 프로모션, 광고기획, 전시기획, 사업기획, 문서작성, "
-   ],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50414096",
-   "source": "잡코리아",
-   "title": "물류센터 야간 쿠팡 택배출고 작업자 채용",
-   "company": "명성",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414096",
-   "deadline": "2026-12-24",
-   "posted": "",
-   "tags": [
-    "300만원 이상(월)",
-    "물류센터, 상품입출고, 창고관리, 택배, 재고관리, 물류센터, 납품, 적재·하역, 납품, 배차, 상품입출고, 재고관리, 택배입출고, 납품기사, "
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-24 20:55",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "jobkorea:50406078",
-   "source": "잡코리아",
-   "title": "[대한골프협회] 2026년 사무행정 정규직 공개채용 공고",
-   "company": "㈔대한골프협회",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50406078",
-   "deadline": "2026-12-03",
-   "posted": "",
-   "tags": [
-    "주5일근무",
-    "행정, 대한골프협회, 골프, 문서관리, 골프, 문서작성, 문서작성, 문서관리"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
    "first_seen": "2026-11-24 20:55",
    "last_seen": "2026-11-26 10:27"
   },
@@ -17460,7 +22206,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-24 10:28",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55456",
@@ -17478,7 +22224,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-24 10:28",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50420440",
@@ -17497,7 +22243,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-24 10:28",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50416517",
@@ -17516,7 +22262,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-24 10:28",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50416792",
@@ -17535,7 +22281,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-24 10:28",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "saramin:55645300",
@@ -18047,7 +22793,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70767",
@@ -18063,7 +22809,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70766",
@@ -18079,7 +22825,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70765",
@@ -18095,7 +22841,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70764",
@@ -18112,7 +22858,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70763",
@@ -18128,7 +22874,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70762",
@@ -18144,7 +22890,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70761",
@@ -18162,7 +22908,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43249",
@@ -20536,7 +25282,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50414456",
@@ -20555,7 +25301,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50412796",
@@ -20574,7 +25320,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50407681",
@@ -20593,7 +25339,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50399317",
@@ -20612,7 +25358,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50345375",
@@ -20631,7 +25377,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 22:56",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "saramin:55643331",
@@ -21944,7 +26690,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 11:08",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:efb447c6-8ecc-45bd-8e8a-cb9b0a76e8ce",
@@ -22774,7 +27520,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 11:08",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50412029",
@@ -22793,7 +27539,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 11:08",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50411375",
@@ -22812,7 +27558,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 11:08",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50411360",
@@ -22831,7 +27577,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 11:08",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50410897",
@@ -22850,7 +27596,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 11:08",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165365",
@@ -23596,7 +28342,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-23 05:33",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50370438",
@@ -23615,7 +28361,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-23 05:33",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50399636",
@@ -24556,7 +29302,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-22 02:03",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50393036",
@@ -24762,7 +29508,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-21 18:05",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3327326",
@@ -24778,7 +29524,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-21 18:05",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3327325",
@@ -24794,7 +29540,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-21 18:05",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70756",
@@ -24810,7 +29556,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-21 18:05",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:60b7e642-1065-4e26-bdaf-356f9f388a54",
@@ -30853,7 +35599,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-20 18:33",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43232",
@@ -33473,7 +38219,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-20 10:36",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43215",
@@ -35250,7 +39996,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-20 03:47",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:27a08e88-f5f6-4f38-97e9-7c99da577d48",
@@ -37287,7 +42033,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70750",
@@ -37303,7 +42049,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70749",
@@ -37321,7 +42067,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70748",
@@ -37337,7 +42083,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70747",
@@ -37354,7 +42100,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43200",
@@ -38950,7 +43696,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55447",
@@ -38968,7 +43714,26 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
+  },
+  {
+   "uid": "jobkorea:50390317",
+   "source": "잡코리아",
+   "title": "[퀄맥스] 2026년도 하반기 신입/경력 채용",
+   "company": "퀄맥스㈜",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50390317",
+   "deadline": "2026-12-22",
+   "posted": "",
+   "tags": [
+    "정규직",
+    "반도체생산, 반도체장비, 네트워크관리, 서버구축, 시스템분석, 시스템설계, 시스템운영, 펌웨어, 서버관리, SI개발, 자재구매, 구매계약, 국내"
+   ],
+   "categories": [
+    "기타"
+   ],
+   "intern": false,
+   "first_seen": "2026-11-19 18:46",
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165327",
@@ -39397,25 +44162,6 @@
    "tags": [
     "250,000원(일)",
     ""
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": false,
-   "first_seen": "2026-11-19 18:46",
-   "last_seen": "2026-11-22 22:55"
-  },
-  {
-   "uid": "jobkorea:50390317",
-   "source": "잡코리아",
-   "title": "[퀄맥스] 2026년도 하반기 신입/경력 채용",
-   "company": "퀄맥스㈜",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50390317",
-   "deadline": "2026-12-22",
-   "posted": "",
-   "tags": [
-    "정규직",
-    "반도체생산, 반도체장비, 네트워크관리, 서버구축, 시스템분석, 시스템설계, 시스템운영, 펌웨어, 서버관리, SI개발, 자재구매, 구매계약, 국내"
    ],
    "categories": [
     "기타"
@@ -40135,7 +44881,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 10:37",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3326582",
@@ -40151,7 +44897,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 10:37",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70745",
@@ -40167,7 +44913,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 10:37",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:057e952b-1859-4932-8d91-a755364b3db1",
@@ -43058,7 +47804,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-19 10:37",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "skku:165314",
@@ -43696,7 +48442,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-19 03:35",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "inthiswork:421897",
@@ -46716,7 +51462,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3326231",
@@ -46732,7 +51478,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70743",
@@ -46748,7 +51494,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70742",
@@ -46764,7 +51510,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70740",
@@ -46780,7 +51526,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43189",
@@ -48749,7 +53495,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55440",
@@ -48767,7 +53513,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 18:38",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50363397",
@@ -51864,7 +56610,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 02:17",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:8fb8ae81-945c-4754-aaa0-67a186ae22fd",
@@ -52091,7 +56837,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 02:17",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70734",
@@ -52107,7 +56853,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-18 02:17",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70732",
@@ -52123,7 +56869,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-18 02:17",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:f7b73c0b-5634-442e-9bf3-6030e98e93c3",
@@ -55457,7 +60203,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3325836",
@@ -55473,7 +60219,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3325725",
@@ -55490,7 +60236,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70730",
@@ -55506,7 +60252,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70729",
@@ -55522,7 +60268,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70728",
@@ -55538,7 +60284,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70727",
@@ -55554,7 +60300,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43180",
@@ -56857,7 +61603,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55437",
@@ -56875,7 +61621,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55436",
@@ -56893,7 +61639,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55435",
@@ -56911,7 +61657,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55434",
@@ -56929,7 +61675,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55433",
@@ -56947,7 +61693,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-17 15:42",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50382672",
@@ -60602,7 +65348,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 23:32",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70725",
@@ -60619,7 +65365,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 23:32",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "inthiswork:420812",
@@ -64835,7 +69581,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 13:22",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "kofia:43155",
@@ -66286,7 +71032,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 13:22",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55424",
@@ -66304,7 +71050,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 13:22",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55421",
@@ -66322,7 +71068,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 13:22",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50362508",
@@ -67998,7 +72744,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-16 01:45",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "jobkorea:50348144",
@@ -68189,7 +72935,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-15 01:19",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "zighang:086349b6-61c0-49c0-9d77-349e89fd0f3a",
@@ -70246,7 +74992,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3324450",
@@ -70262,7 +75008,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70721",
@@ -70278,7 +75024,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70720",
@@ -70294,7 +75040,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70718",
@@ -70310,7 +75056,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70717",
@@ -70326,7 +75072,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70716",
@@ -70342,7 +75088,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70715",
@@ -70358,7 +75104,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-14 17:16",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "inthiswork:420092",
@@ -75205,7 +79951,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3324159",
@@ -75221,7 +79967,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3324157",
@@ -75237,7 +79983,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70708",
@@ -75253,7 +79999,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70707",
@@ -75269,7 +80015,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "inthiswork:419491",
@@ -76286,7 +81032,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3323755",
@@ -76302,7 +81048,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70705",
@@ -76320,7 +81066,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70704",
@@ -76336,7 +81082,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70703",
@@ -76352,7 +81098,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70700",
@@ -76368,7 +81114,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70699",
@@ -76384,7 +81130,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70698",
@@ -76416,7 +81162,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3323287",
@@ -76432,7 +81178,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70697",
@@ -76544,7 +81290,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3322829",
@@ -76560,7 +81306,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3322702",
@@ -76576,7 +81322,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3322680",
@@ -76592,7 +81338,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70685",
@@ -76674,7 +81420,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3321421",
@@ -76690,7 +81436,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3321418",
@@ -76706,7 +81452,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70671",
@@ -76787,7 +81533,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70663",
@@ -76867,7 +81613,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3319744",
@@ -76883,7 +81629,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3319732",
@@ -76899,7 +81645,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70655",
@@ -76963,7 +81709,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3319291",
@@ -76979,7 +81725,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70648",
@@ -77075,7 +81821,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70632",
@@ -77108,7 +81854,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70628",
@@ -77156,7 +81902,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70618",
@@ -77204,7 +81950,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver18633550:70615",
@@ -77270,7 +82016,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:330",
@@ -77288,7 +82034,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3313756",
@@ -77304,7 +82050,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3313032",
@@ -77320,7 +82066,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3312950",
@@ -77336,7 +82082,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3312394",
@@ -77352,7 +82098,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3311829",
@@ -77368,7 +82114,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3311361",
@@ -77384,39 +82130,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "naver23690164:3310230",
-   "source": "네카페·금융권 인턴",
-   "title": "[NH투자증권] 2026년 하반기 PB직무 체험형 인턴 채용 (~10/23)",
-   "company": "NH투자증권",
-   "url": "https://cafe.naver.com/f-e/cafes/23690164/articles/3310230",
-   "deadline": "2026-10-23",
-   "posted": "2026-10-16",
-   "tags": [],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "naver23690164:3310049",
-   "source": "네카페·금융권 인턴",
-   "title": "[한국자산평가] 솔루션, 컨설팅 경력 및 신입(인턴)직원 채용 공고 (~10/25)",
-   "company": "한국자산평가",
-   "url": "https://cafe.naver.com/f-e/cafes/23690164/articles/3310049",
-   "deadline": "2026-10-25",
-   "posted": "2026-10-16",
-   "tags": [],
-   "categories": [
-    "전략기획"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver15279069:651212",
@@ -77432,7 +82146,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver15279069:651210",
@@ -77448,7 +82162,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "naver23690164:3303594",
@@ -77482,7 +82196,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:327",
@@ -77500,7 +82214,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:326",
@@ -77518,7 +82232,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:325",
@@ -77536,7 +82250,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:324",
@@ -77554,7 +82268,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:323",
@@ -77572,7 +82286,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:322",
@@ -77590,7 +82304,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:321",
@@ -77608,7 +82322,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:320",
@@ -77626,7 +82340,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:319",
@@ -77644,7 +82358,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:318",
@@ -77662,7 +82376,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:315",
@@ -77680,7 +82394,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "careerjump:314",
@@ -77698,7 +82412,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55412",
@@ -77716,7 +82430,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55411",
@@ -77734,7 +82448,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55406",
@@ -77752,7 +82466,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55401",
@@ -77770,7 +82484,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55400",
@@ -77788,7 +82502,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55399",
@@ -77806,7 +82520,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55396",
@@ -77824,7 +82538,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55391",
@@ -77842,7 +82556,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55388",
@@ -77860,7 +82574,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55384",
@@ -77878,7 +82592,7 @@
    ],
    "intern": true,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55374",
@@ -77896,7 +82610,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "yonsei:55354",
@@ -77914,61 +82628,7 @@
    ],
    "intern": false,
    "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "yonsei:55351",
-   "source": "연세대 MBA",
-   "title": "[NEOPHARM] 정규직 전환형 인턴직 채용 - 콘텐츠 마케터",
-   "company": "NEOPHARM",
-   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55351",
-   "deadline": "2026-11-17",
-   "posted": "",
-   "tags": [
-    "인턴십"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "yonsei:55342",
-   "source": "연세대 MBA",
-   "title": "[한국언론진흥재단] 2026년 3차 체험형 청년인턴 모집(~11/9)",
-   "company": "한국언론진흥재단",
-   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55342",
-   "deadline": "2026-11-09",
-   "posted": "",
-   "tags": [
-    "인턴십"
-   ],
-   "categories": [
-    "기타"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
-  },
-  {
-   "uid": "yonsei:55338",
-   "source": "연세대 MBA",
-   "title": "[IBK기업은행] 2027년 동계 체험형 청년인턴 공개채용 (~11/16, 10:00)",
-   "company": "IBK기업은행",
-   "url": "https://mba.yonsei.ac.kr/mba/career/recruitment.do?mode=view&articleNo=55338",
-   "deadline": "2026-11-16",
-   "posted": "",
-   "tags": [
-    "인턴십"
-   ],
-   "categories": [
-    "금융권"
-   ],
-   "intern": true,
-   "first_seen": "2026-11-12 20:07",
-   "last_seen": "2026-11-26 10:27"
+   "last_seen": "2026-11-26 19:20"
   },
   {
    "uid": "linkareer:356995",
